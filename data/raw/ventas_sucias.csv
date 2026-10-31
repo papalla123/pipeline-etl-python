@@ -1,0 +1,649 @@
+ID Pedido;Fecha ;Cliente;Región;Producto;Cant.;Precio Unit.;Descuento;Vendedor;Estado
+PED-00001;2026-01-05;Nova Distribuciones;Norte;Laptop Pro 14;3;1250.50;10%;Lucía Paredes;Pagado
+ ped-00002 ;07/01/2026;NOVA DISTRIBUCIONES ;norte;laptop pro14;2;1,180.00;0;lucía paredes;pagado
+PED00003;08-01-26;Grupo Aurora;Nrte;Monitor 27 4k;5;USD 340;5 %;Marcos Quiroz;Pend.
+PED-00004;09.01.2026;Logística  Delta;Sur;Teclado Mecanico;12;78,5;0.05;;Pagado
+PED-00005;31/02/2026;Cobalto Industrial;Centro;Mouse Inalámbrico;10;$ 24.90;;Valeria Soto;Pagado
+PED-00006;12/01/2026;Alfa Retail;Oriente;Silla Ergonómica;-2;210;0;Diego Rivas;Pagado
+PED-00002;07/01/2026;Nova Distribuciones;Norte;Laptop Pro 14;2;1180.00;0;Lucía Paredes;Pagado
+PED-00008;15/01/2026;Tecnoandina;Sur;Laptop Pro 14;1;1.250,50;15%;Camila Herrera;Anulado
+PED-00009;15/03/2062;Corporación Zenit;Centro;Docking USB-C;4;125;0;Andrés Molina;Pagado
+PED-00010;20/01/2026;Corporación Zenit;Centro;Webcam HD 1080p;99999;45;0;Andrés Molina;Pagado
+PED-00011;21/01/2026;Mercantil Horizonte;Marte;Auriculares ANC;6;120;10%;Camila Herrera;Pagado
+PED-00012;22/01/2026;Soluciones Orbital;Sur;Cable HDMI 2m;1;99;0;Diego Rivas;Pagado
+PED-00013;01/01/2026;Logística Delta;Sur;Teclado Mecánico;24;80,32;0.05;Marcos Quiroz;Pendiente
+PED00014;2026-01-01;Tecnoandina;Sur;Teclado Mecánico;7;96,93;0;Marcos Quiroz;Pendiente
+PED-00015;2026-01-01;Textiles Pampa;Centro;Monitor 27 4K;1;315.35;0.15;Valeria Soto ;Pagado
+PED-00016;2026-01-02;;Norte;Docking USB-C;7 unid.;133.79;0;LUCÍA PAREDES;Pagado
+PED-00017;02-01-26;Mercantil Horizonte;Oriente;Monitor 27 4K;15;317.19;0%;Camila  Herrera;Pagado
+PED-00018;2026-01-03;Nova Distribuciones;N0rte;Mouse Inalámbrico;37 unid.;$21.01;15%;Lucía Paredes;Pagado
+PED-00019;03/01/2026;Textiles Pampa;Centro;Docking USB-C;13;150.54;0,15;Valeria Soto;Anulado
+PED-00020;05/01/2026;Servicios Meridiano;Oriente ;Docking USB-C;8;$159.46;0%;diego rivas;pagado
+PED-00350;12/05/2026;Soluciones; Orbital;Sur;Silla Ergonómica;2;210;0;Diego Rivas;Pagado
+;2026-01-05;Soluciones Orbital;Sur;Laptop Pro 14;5;1240,42;15 %; Diego Rivas;Pagada
+PED-00022;2026-01-05;Alfa Retail;Orient;Silla Ergonómica;1;171,46;5%;Diego Rivas;pagado
+;06/01/2026;Agroexport Valle;Oriente;Laptop Pro 14;2;1043.91;0,10;Camila Herrera;anulada
+PED-00024;09.01.2026;Mercantil Horizonte;Oriente;Silla Ergonómica;10;174.33;5%;Camila Herrera;Pagado
+PED-00025;09-01-2026;importadora brisa;NORTE;Laptop Pro 14;7;$1,059.79;5%;Camila Herrera;PENDIENTE
+PED-00026;09-01-26;Grupo Aurora;Norte;Webcam HD 1080;24;USD 40;0%;Lucía Paredes;Pagado
+PED-00027;11-01-26;Inversiones Titán;Centro;Webcam HD 1080p;3;62.67;0;Andrés Molina;Pagado
+PED-00028;12/01/2026;Grupo  Aurora;norte;Mouse Inalámbrico;32;22.90;0%;Lucía Paredes;Pdte
+ PED-00029 ;2026-01-12;Comercial Andes Sur;Sur;WEBCAM HD 1080P;2;48,93;0%;MARCOS QUIROZ;Anulado
+PED-00030;12/01/2026;Alfa Retail;;monitor 27 4k;9;USD 315;0%;Diego  Rivas;pagado
+PED-00031;12-01-26;Importadora Brisa ;Norte;Silla Ergonómica;1;160.34;0,05;Camila Herrera;Pendiente
+PED-00032;2026-01-12;Corporación Zenit;Centro;Auriculares ANC;15;167.69;5%;Andrés Molina;Pagado
+PED-00033;12/01/2026;Servicios Meridiano;Oriente;LAPTOP PRO 14;5.0;1.190,16;0%;diego rivas;Pagado
+PED-00034;13-01-26;Importadora Brisa;Norte;Webcam HD 1080p;12;35.21;15%;Camila Herrera;Pagado
+PED-00035;13/01/2026;Agroexport Valle;Oriente;Silla Ergonómica;7;196.44;15%;Camila Herrera;pagado
+PED-00036;13/01/2026;Comercial Andes Sur;Sur;Docking USB-C;13;150.32;0%;Marcos Quiroz;PAGADO 
+PED-00037;13-01-2026;Textiles Pampa;Centro ;Teclado Mecánico;11;98.96;0,00;Valeria Soto;Pagado
+PED-00038;2026-01-14;Textiles Pampa;Centro;Webcam HD 1080p;5;50.39;5%;Valeria Soto;Pagado
+PED-00039;20.01.2026;Corporación Zenit;Centro;Webcam HD 1080p;20;51.65;0;Andrés Molina;Anulado
+PED-00040;2026-01-20; Inversiones Titán;Centro;Mouse Inalámbrico;17;USD 38;10;Andrés Molina;Anulado
+PED-00041;2026-01-21;Servicios Meridiano;ORIENTE;Webcam HD 1080p;1;$47.69;0 %;diego rivas;ANULADO
+PED00042;22-01-26;Tecnoandina;Sur.;Silla Ergonomica;01;219.85;10 %;Marcos  Quiroz;PENDIENTE
+ PED-00043 ;22/01/2026;Alfa Retail;Oriente;Mouse Inalámbrico;4;36,03;15 %;Diego Rivas;Pagado
+ped-00044;24.01.2026;Textiles Pampa;Centrp;Docking USB-C;11;145.40;0 %;Valeria Soto;Pagado
+PED-00045;25/01/2026;Cobalto Industrial;Centro;Silla Ergonómica;10;241,13;0.1;Valeria Soto.;Pagado
+PED-00046;2026-01-26;Logística Delta;Sur ;Webcam HD 1080p;8;60,65;10%;Marcos Quiroz ;Pagado
+PED-00047;27.01.2026;Inversiones Titán;Centrp;Silla Ergonómic;5;156.23;10%;Andrés Molina;Pagada
+PED-00048;27/01/2026;Tecnoandina;???;Mouse Inalámbrico;21;22,56;0;Marcos  Quiroz;Pagado
+PED-00049;2026-01-29;Constructora Roble;Norte;Laptop Pro 14;3;976.89;0.15;Lucía Paredes;Pagado
+PED-00050;2026-01-29;Constructora Roble.;N0rte;Teclado Mecánico;20;74,28;5%;LUCÍA PAREDES;Pagado
+PED-00051;29-01-2026;Corporación Zenit ;Centro;Monitor 27 4K;4;US$ 390.65;0;Andrés Molina;pagado
+PED-00052;2026-01-29;Tecnoandina;Sur.;Monitor 27 4K;7;350.40;0.15;Marcos  Quiroz;Pagado
+PED-00053;30/01/2026;Textiles Pampa;Centro;Laptop Pro 14;1;982.49;0.1;Valeria Soto;Pendiente
+PED-00054;2026-01-30;Textiles Pampa;Cntro;Webcam HD 1080p;13;39,58;0;Valeria Soto;Pagado
+PED-00055;30/01/2026;Nova Distribuciones;Norte;Docking USB-C;13;125.38;0,00;Lucía Paredes;Pagado
+PED00056;31/01/2026;Soluciones Orbital;Sur;Docking USB-C;5;158.26;0,05;Diego Rivas.;Pagado
+PED-00057;01/02/2026;Textiles Pampa ;Centro;SillaErgonómica;10;$200.96;15%;Valeria Soto;Pagado
+PED-00058;02/02/2026; Mercantil Horizonte;oriente;Laptop Pro 14;2.0;1026.31;0.05;Camila Herrera;PAGADO 
+PED-00059;2026-02-03;Soluciones Orbital;Sur;Silla Ergonómic;4;312.75;0 %;DIEGO RIVAS;Pagado
+PED-00060;03-02-2026;Logística Delta;Sur;Webcam  HD  1080p;15;57.96;10;Marcos  Quiroz;Pagado
+PED-00061;2026-02-03;Agroexport Valle;Oriemte;Silla Ergonómica;04;USD 278;0%;Camila Herrera ;Pagado
+PED-00062;04.02.2026;Importadora Brisa;Norte;Docking USB-C;;109.92;10%;Camila Herrera;Pagado
+PED-00063;2026-02-04;Textiles Pampa;Centro;Docking USB-C;13;136.85;0;Valeria Soto ;Anulado
+PED-00064;05-02-2026;Cobalto Industrial;centro;mouse inalámbrico;24;35.37;0 %;Valeria Soto;Cancelado
+PED-00065;05/02/2026;Corporación Zenit;Centro;Monitor 27 4K;3;325.94;5;Andrés Molina;Pagado
+PED-00066;06-02-26;Grupo Aurora;Norte;Docking USB-C;16;92,22;5%;Lucía Paredes;Pagado
+PED-00067;2026-02-06;Nova Distribuciones;norte;Laptop Pro 14;5 unid.;1135.20;10%;Lucía Paredes;pagado
+PED-00068;2026-02-06;Inversiones Titán;Centro;Silla Ergonómica;4.0;241.76;0,15;Andrés Molina;Pendiente
+PED-00069;09/02/2026;Agroexport Valle;Oriente;Laptop Pro 14;6;1,326.63;10 %;Camila Herrera;Pagado
+PED-00070;2026-02-09;COMERCIAL ANDES SUR;Sur;Docking USB-C;18;140,72;0%;Marcos Quiroz;Pagado
+PED-00071;10/02/2026;Corporación Zenit ;CENTRO;Auriculares ANC;8;130,73;15%; Andrés Molina;Pagado
+PED-00072;10/02/2026;alfa retail;Oriente;teclado mecánico;11;71.50;5%;Diego Rivas;Pendiente
+PED-00073;00/00/0000;Grupo Aurora;N0rte;Laptop Pro 14;0;1005.00;0.1;Lucía Paredes;Pagado
+PED-00074;2026-02-11;Tecnoandina;Sur;Docking USB-C;4;126,71;0;Marcos Quiroz;pagado
+PED-00075;12/02/2026;Logística Delta;Sr;Silla  Ergonómica;7;259,63;;;Pagado
+PED-00076;12/02/2026;Inversiones Titán;Centro;Docking USB-;10;101.37;;ANDRÉS MOLINA;Pagado
+PED-00077;2026-02-12;CONSTRUCTORA ROBLE;Norte;SILLA ERGONÓMICA;4;210.49;0.05;Lucía Paredes;Pagado
+PED-00078;12/02/2026;Servicios Meridiano;Orient;Docking USB-C;1;96.27;5%;Diego Rivas;Pagado
+PED-00079;2026-02-12;soluciones orbital;Sr;TECLADO MECÁNICO;24.0;91.25;5%;Diego  Rivas;Pagado
+PED-00080;2026-02-13;Agroexport Valle;Oriente;Teclado Mecánico;11;USD 79;15;Camila Herrera;Pendiente
+PED-00081;13-02-2026;Servicios Meridiano;Oriente;Auriculares ANC;3;119,40;0,05;Diego Rivas;Pagada
+PED-00082;13/02/2026;Textiles Pampa;Centro;Auriculares ANC;99999;71.16;0%;Valeria Soto;Pagado
+PED-00083;2026-02-16;Corporación Zenit;Centro;Silla Ergonómic;6;230,95;5%;Andrés Molina;Pendiente
+PED-00084;16-02-26;Nova Distribuciones;Norte;Teclado Mecánico;15 unid.;89,61;0,05;Lucía Paredes;Pagado
+PED-00085;16/02/2026;Importadora Brisa;Norte;Docking  USB-C;5;111.92;0;Camila Herrera ;Pagado
+PED-00086;17/02/2026;Corporación Zenit;Centro;Auriculares ANC;18;$125.60;5%;ANDRÉS MOLINA;Pagado
+PED-00087;2026-02-18;Grupo Aurora;Norte ;silla ergonómica;9;187.15;0,05;Lucía Paredes;Pagado
+PED00088;18/02/2026;Grupo Aurora;Norte ;WEBCAM HD 1080P;18.0;44.84;5%;lucía paredes;Pagado
+PED-00089;19.02.2026;Agroexport Valle;Oriemte;Monitor 27 4K;0;US$ 368.54;10;CAMILA HERRERA;Pagada
+PED-00090;19/02/2026;Corporación Zenit;N/A;Silla Ergonómica;5 unid.;204.89;0%;Andrés Molina;Pagado
+PED-00091;19/02/2026;Soluciones Orbital;Sur;Docking USB-C;12;107.53;0;Diego Rivas;Pagado
+PED-00092;20-02-26;Inversiones Titán.;Centro;Servicio instalación;4;$97.22;0,00;Andrés Molina;Pendiente
+PED-00093;2026-02-20;Cobalto Industrial;Cntro;Auriculares ANC;12;$175.96;0%;Valeria  Soto;Pendiente
+ PED-00094 ;22.02.2026;Agroexport Valle;ORIENTE;Docking USB-C;17;152.21;0;Camila Herrera;ANULADO
+PED-00095;23/02/2026;Logística Delta;Sur;Monitor 27 4K;5;291,70;0,00;Marcos Quiroz;Pagado
+PED-00096;23-02-26;Nova Distribuciones;Norte;Monitor 27 4K;12;US$ 281.59;0.05;Lucía Paredes;Anulado
+PED-00097;2026-02-24;Tecnoandina;Sur;Mouse Inalámbrico;7;42.36;10;Marcos Quiroz;Pendiente
+PED-00098;2026-02-27;Grupo Aurora;Norte;MONITOR 27 4K;4;US$ 392.61;0;Lucía Paredes;Anulado
+PED-00099;2026-03-01;servicios meridiano;Oriente;Laptop Pro 14;4.0;1166.62;10%;Diego Rivas;Pendiente
+PED-00100;01/03/2026;Logística Delta;Sr;Docking USB-C;17;99.35;15%;Marcos Quiroz;Pagado
+PED-00101;02/03/2026;Comercial Andes Sur;Sur ;Teclado Mecánico;15;75.42;0%;Marcos Quiroz;Pendiente
+PED00102;02.03.2026;Constructora Roble;Norte;Docking USB-C;5 unid.;98.50;0;Lucía Paredes;Pendiente
+PED-00103;2026-03-02;Servicios Meridiano;Oriente;Auriculares ANC;16;73.24;10%;Diego Rivas;pagado
+PED-00104;2026-03-03;Inversiones Titán;;Webcam HD 1080p;16;US$ 54.06;5%;Andrés Molina;Pagada
+ PED-00105 ;2026-03-03;Grupo Aurora;Norte;Teclado Mecánico;19;102.33;15%;Lucía Paredes;Pagado
+PED-00106;04/03/2026;MERCANTIL HORIZONTE;Oriente;Teclado  Mecánico;1;US$ 86.32;;Camila Herrera;Pagado
+PED-00107;05/03/2026;Tecnoandina;Sur;Auriculares ANC;16;141.41;;Marcos Quiroz;Pdte
+PED-00108;05/03/2026;mercantil horizonte;oriente;Docking USB-C;16;99.85;abc;Camila Herrera;Pagado
+PED-00109;06/03/2026;Inversiones Titán;Centro;Webcam HD 1080p;18;48.14;15%;Andrés Molina;Pagado
+PED-00110;06-03-26;Tecnoandina;Sur;Auriculares ANC;6;;0;Marcos Quiroz;Pagado
+PED-00111;2026-03-06;Importadora Brisa;Norte;Docking USB-C;16;149.06;0;Camila Herrera;Pdte
+PED-00112;09/03/2026;Mercantil Horizonte;Oriente ;Laptop  Pro  14;7;1277.36;5%;Camila Herrera.;Anulado
+PED-00113;10-03-2026;Servicios Meridiano;Oriente;Docking USB-C;14;104,13;15%;Diego Rivas;Pagada
+PED-00114;10/03/2026;Cobalto Industrial;Centro;Docking USB-C;19;144,57;15%;Valeria Soto;Pagado
+PED-00115;2026-03-11;Importadora Brisa;Norte;Mouse Inalámbrico;18;$41.07;15;Camila Herrera;Pendiente
+PED-00116;2026-03-12;Alfa Retail;Oriente;Laptop Pro 14;3;US$ 1,027.11;0,15;diego rivas;PAGADO 
+PED-00117;2026-03-13;Logística Delta;Sur;Mouse Inalámbrico;2;29.66;;Marcos Quiroz;pend.
+PED-00118;2026-03-13;Comercial Andes Sur;Sur;Silla Ergonómica;5;187.10;0%;Marcos  Quiroz;Pagado
+PED-00119;2026-03-14;Mercantil Horizonte;Oriente;Laptop Pro 14;7;1,214.21;10 %;Camila Herrera;Pagado
+PED-00120;15-03-2026;Importadora Brisa;Norte;DOCKING USB-C;16;98,96;;Camila  Herrera;pend.
+PED-00121;17/03/2026;Cobalto Industrial ;Centro;auriculares anc;17;102,82;abc;VALERIA SOTO;Pendiente
+PED00122;2026-03-17;Logística Delta;;Monitor 27 4K;10;$340.72;5%;Marcos Quiroz;PAGADO 
+PED-00123;2026-03-17;Importadora Brisa;Norte;Mouse Inalámbrico;30.0;38.20;5%;CAMILA HERRERA;Pagado
+PED-00124;2026-03-17;Grupo Aurora;Norte;Producto X;2;1.211,43;0;Lucía Paredes;Pagado
+PED-00125;18-03-26;Cobalto Industrial;Centro;Silla Ergonómica;;253.53;0.15;VALERIA SOTO;pagado
+PED-00126;18.03.2026;Soluciones Orbital;Sur;teclado mecánico;15 unid.;109.43;0;Diego Rivas ;pagado
+PED-00127;19-03-26;TECNOANDINA;Sur;Docking USB-C;13;118.02;5;Marcos Quiroz ;pagado
+PED-00128;2026-03-19;Alfa Retail;oriente;Silla Ergonomica;8;169.20;0.05;Diego Rivas;PAGADO 
+PED-00129;20/03/2026;Grupo Aurora.;Norte;LAPTOP PRO 14;3;1152.23;5 %;Lucía Paredes;Pendiente
+PED-00130;20/03/2026;Grupo Aurora;Norte ;Laptop Pro 14;2;$1,266.71;5;Lucía Paredes;Pagada
+PED-00131;20/03/2026;Importadora Brisa;Norte ;WEBCAM HD 1080P;23;38,72;0,00;Camila Herrera;Pagada
+PED-00132;20-03-2026; Alfa Retail;Oriente;Silla Ergonómica;1 unid.;240.16;;Diego Rivas;Pagada
+PED-00133;20/03/2026;Constructora Roble;Norte;Monitor 27 4K;3;337,78;0.1;Lucía Paredes;Pendiente
+PED-00134;20/03/2026;Agroexport Valle;ORIENTE;Auriculares ANC;18;$101.45;15;Camila Herrera ;PAGADO 
+PED-00135;21/03/2026;INVERSIONES TITÁN;Cntro;Teclado Mecánico;17;USD 99;15;Andrés Molina;Pendiente
+PED00136;2026-03-21;Corporación Zenit;Centro;Mouse Inalámbrico;29;24.44;10%;Andrés Molina;Pagado
+PED-00137;21/03/2026;Comercial Andes Sur;Sur;Docking USB-C;11;USD 127;0%;Marcos Quiroz;Pagado
+PED-00138;2026-03-23;mercantil horizonte;ORIENTE;Laptop Pro 14;6;1102.55;15;Camila Herrera;Anulado
+PED00139;23/03/2026;Corporación Zenit;Centro;Auriculares ANC;4;USD 93;0.15;Andrés Molina;Pendiente
+PED-00140;23/03/2026;Cobalto Industrial;Centro;Laptop Pro 14;2;1252.38;5;Valeria  Soto;Pagado
+PED-00141;2026-03-23;Comercial Andes Sur;Sur;Laptop Pro 14;3;999.29;0,00;Marcos Quiroz;Pagado
+PED-00142;2026-03-24;Logística Delta;Sr;Mouse Inalámbrico;5;26,27;;Marcos Quiroz;PENDIENTE
+PED-00143;24-03-26;Servicios Meridiano;Oriente;Mouse Inalambrico;24;$23.36;10;DIEGO RIVAS;pagado
+PED-00144;2026-03-24;Corporación Zenit;Centro;Laptop Pro 14;;US$ 1,167.39;5;Andrés Molina;Pagado
+PED-00145;2026-03-24;Alfa Retail ;Oriente;Silla Ergonómica;6;156,87;15;Diego Rivas;Pagado
+PED-00146;24/03/2026;Logística Delta;Sur;Mouse Inalámbrico;25;44,32;0;Marcos Quiroz;Pagado
+PED-00147;25/03/2026;Agroexport Valle;Oriente;Teclado Mecánico;19;68.06;15;Camila Herrera;Pagada
+PED-00148;25/03/2026;Agroexport Valle;Orient;Monitor 27 4K;4;396,25;0.05;Camila Herrera;Pagado
+PED-00149;;Grupo Aurora;Marte;DOCKING USB-C;3;$123.76;0%;Lucía Paredes;pend.
+PED-00150;26/03/2026;Importadora Brisa;Norte;Auriculares ANC;9 unid.;90.79;10;Camila Herrera;Pendiente
+PED-00151;26.03.2026;Comercial Andes Sur;Sur;Silla Ergonómica;5;$318.05;5 %;MARCOS QUIROZ;Pagado
+PED-00019;03/01/2026;Textiles Pampa;Centro;Docking USB-C;13;150.54;0,15;Valeria Soto;Anulado
+PED-00152;26-03-2026;Servicios Meridiano;Oriente;Docking USB-C;3;USD 108;0%;Diego Rivas;Pagado
+PED-00153;26/03/2026;Grupo Aurora;;Webcam HD 1080p;8;57.93;0%;Lucía Paredes;Pagado
+PED-00154;26/03/2026;Tecnoandina;Sur;Auriculares ANC;17;81.71;0,00;;Pagado
+PED-00155;2026-03-27;Mercantil Horizonte;Oriente;Teclado Mecánico;26;$75.79;0%;Camila Herrera;Pagado
+PED-00156;2026-03-27;Mercantil Horizonte;;Teclado Mecanico;27;72,48;5%;CAMILA HERRERA;Pagado
+PED-00157;29-03-26;Alfa Retail;Oriente;Servicio instalación;7;1.141,33;0.05;Diego Rivas;Pagado
+PED-00158;2026-03-30;Agroexport Valle;Oriente;Auriculares ANC;7;$116.10;15%;Camila Herrera;Pagado
+
+PED-00159;2026-03-31;Textiles Pampa;Centro;Silla Ergonómica;5;192.67;15;Valeria Soto;Pagado
+PED-00160;31/03/2026;Importadora  Brisa;Norte;Webcam HD 1080p;11;58.56;5 %;Camila Herrera;Pendiente
+PED-00161;31/03/2062;Constructora Roble;norte;Webcam HD 1080p;24;55.54;0.05;Lucía Paredes;Pagado
+PED-00162;2026-04-01;Inversiones Titán;Centrp;Mouse Inalámbrico;15;26,18;0;Andrés Molina;Pagado
+PED-00163;01/04/2026;;Sur ;Silla Ergonómica;9;188.61;0;MARCOS QUIROZ;Pagado
+PED-00164;2026-04-01;Servicios Meridiano;Oriente;Auriculares ANC;8;87,96;10%;Diego Rivas;Pagado
+PED00165;2026-04-01;Corporación Zenit;Centro;Webcam HD 1080p;1.0;USD 40;5;Andrés Molina;Pagado
+PED-00166;01-04-26;AGROEXPORT VALLE;oriente;monitor 27 4k;4;405.40;;Camila Herrera;Pendiente
+PED-00167;01-04-2026;Cobalto Industrial;;Mouse Inalámbrico;31.0;$35.96;0%;Valeria Soto;Pagado
+PED-00168;2026-04-01;TEXTILES PAMPA;CENTRO;Laptop Pro 14;1;1092.21;0,00;Valeria Soto;Pendiente
+PED-00169;2026-04-02;Textiles Pampa;Centro;silla ergonómica;5;297,50;5%;VALERIA SOTO;Pendiente
+PED-00170;03.04.2026;Alfa Retail ;Oriente;Mouse Inalámbrico;21;30.25;0%;Diego Rivas;PAGADO 
+PED-00171;04-04-26;Logística Delta;N/A;Sila Ergonómica;1;211.36;0.1;Marcos Quiroz;ANULADO
+PED-00172;06-04-26;Servicios Meridiano;Oriente;Docking  USB-C;19.0;115.06;5;Diego Rivas;Pendiente
+PED-00173;2026-04-06;Soluciones Orbital ;;Webcam HD 1080p;1500;$50.66;0,05; Diego Rivas;Pagado
+PED-00174;06/04/2026;Comercial Andes Sur;Sur;Monitor 27 4K;3;317,10;5;Marcos Quiroz;pagado
+PED-00175;06/04/2026;COMERCIAL ANDES SUR;Sur;Auriculares ANC;14;$172.33;;Marcos Quiroz;Pendiente
+PED-00176;2026-04-07;INVERSIONES TITÁN;Centro;Monitor 27 4K;3;327.06;5%;Andrés Molina;Pagado
+PED-00177;2026-04-07;servicios meridiano;Oriente;Auriculares ANC;12;108.31;0%;Diego Rivas;Pagado
+PED-00178;07/04/2026;Textiles Pampa;Cntro;Docking USB-C;10;121.50;0;Valeria Soto;Pagado
+PED-00179;07-04-2026;Inversiones Titán;Centro;Mouse Inalámbrico;24;41.61;0;Andrés Molina;Pagado
+PED-00180;07/04/2026;Comercial Andes Sur.;Sur.;Webcam HD 1080p;21;US$ 45.58;0,05;Marcos Quiroz;Pagada
+PED-00181;07.04.2026;Textiles Pampa;Centro;Silla Ergonómica;09;172,40;10%;Valeria Soto ;pagado
+ PED-00182 ;07-04-26;Servicios Meridiano;Oriente;Auriculares ANC;10;118.73;15%;Diego Rivas;Pendiente
+PED-00183;07-04-2026;Inversiones Titán;Centro;Silla  Ergonómica;8 unid.;173.38;0%;Andrés Molina;Pagado
+PED-00184;07-04-26;Textiles Pampa;Centro;Auriculares ANC;20;$173.31;5%;Valeria Soto ;Pagado
+ped-00185;07/04/2026;Tecnoandina;Sur;Auriculares ANC;10;137,44;0%;Marcos Quiroz;Pdte
+PED-00186;08-04-26;Tecnoandina;Sur;Docking  USB-C;3;97,99;5;Marcos Quiroz;Pagado
+PED-00187;08.04.2026;Tecnoandina;Sur;Docking USB-C;5;;0%;marcos quiroz;Pagado
+PED-00188;08-04-2026;Grupo Aurora;Norte;Webcam HD 1080p;2;$40.09;0%;Lucía Paredes;PAGADO 
+PED-00189;09/04/2026;Servicios Meridiano;oriente;Docking USB-C;10;122.96;0 %;Diego Rivas.;Pendiente
+PED-00190;2026-04-09;AGROEXPORT VALLE;Oriente;Silla Ergonómica;8;287.36;5%;Camila Herrera;Pagado
+PED00191;2026-04-09; Nova Distribuciones;Norte;Docking USB-C;11 unid.;113.90;0.1;lucía paredes;pagado
+PED-00192;10-04-2026;Textiles Pampa;Centro;Laptop Pro 14;4;1180.96;0;Valeria Soto;Pendiente
+PED-00193;2026-04-10;IMPORTADORA BRISA;Norte;teclado mecánico;17;75,12;;Camila Herrera;Pagado
+PED-00194;10.04.2026;COBALTO INDUSTRIAL;Centro;Laptop Pro 14;5;1322.93;10%;Valeria Soto;Pendiente
+ PED-00195 ;10/04/2026;Cobalto Industrial;Centro;Teclado Mecánico;18;77.52;0,00;valeria soto;Pagado
+PED-00196;13-04-26;Importadora Brisa;Norte;Webcam HD 1080p;7;59.95;0,10;Camila Herrera;Pendiente
+PED-00197;2026-04-13;Textiles Pampa;Centro;Silla Ergonómica;8;155.14;0,05;Valeria Soto.;Pagado
+PED-00198;14-04-26;servicios meridiano;Oriente;Auriculares ANC;19;156.61;5;Diego Rivas;Pendiente
+PED-00199;2026-04-15;Alfa Retail;Orient;Laptop Pro 14;3.0;1.214,35;5;Diego Rivas;Pagada
+PED-00200;16/04/2026;Nova Distribuciones;Norte;Webcam HD 1080p;04;65.14;15;Lucía Paredes;pagado
+PED-00201;16/04/2026;Agroexport Valle;Oriente;Auriculares ANC;5;USD 79;0.1;Camila Herrera;Pdte
+PED-00202;16.04.2026;Agroexport Valle;Oriente;Webcam HD 1080p;4.0;55,31;10 %;Camila Herrera;Pagado
+PED-00203;17/04/2026;AGROEXPORT VALLE;Oriente;Webcam HD 1080p;14;47.35;0.15;Camila Herrera;Pagado
+PED-00204;2026-04-17;Soluciones Orbital;Sur;Latop Pro 14;2;$1,191.53;5 %;Diego Rivas;Pendiente
+PED-00205;17/04/2026; Comercial Andes Sur;Sur;Laptop Pro 14;5;1,252.19;;Marcos Quiroz;Pagado
+PED-00077;2026-02-12;CONSTRUCTORA ROBLE;Norte;SILLA ERGONÓMICA;4;210.49;0.05;Lucía Paredes;Pagado
+PED-00206;18-04-26;Servicios Meridiano;Oriente;Mouse Inalámbrico;;;0.15;Diego Rivas;pagado
+PED-00207;2026-04-20;Soluciones Orbital;Sur;Teclado Mecánico;2;61,19;0%; Diego Rivas;Pagada
+PED-00208;20/04/2026;Soluciones  Orbital;Sur;Auriculares ANC;11;$98.31;0,15;Diego Rivas;Pagado
+PED-00209;20/04/2026;Soluciones Orbital;Sur;Silla Ergonómica;1;USD 302;0%;DIEGO RIVAS;Pagado
+ PED-00210 ;21/04/2026;Comercial Andes Sur;SUR;Webcam HD 1080p;22;45.60;0;Marcos Quiroz ;Pagado
+PED-00211;21/04/2026;Grupo  Aurora;N0rte;Teclado Mecánico;1;USD 96;0.05;Lucía Paredes ;Pagado
+ped-00212;21-04-26;Logística Delta;???;Laptop Pro 14;3;1145.56;0;MARCOS QUIROZ;pagado
+PED-00213;2026-04-21;Inversiones Titán;Centro;Webcam HD 1080p;4;69.15;5;ANDRÉS MOLINA;Pagado
+PED-00214;21.04.2026;Nova Distribuciones;Norte;Laptop Pro 14;3;$1,320.45;10%;Lucía Paredes;Pagado
+PED-00215;2026-04-22;Corporación Zenit;Centro;Docking USB-C;17;158,38;5 %;Andrés Molina;PAGADO 
+
+PED-00216;2026-04-22;Constructora Roble;Norte;Laptop Pro 14;2;1246.17;5%;Lucía Paredes;Pagado
+PED-00217;2026-04-23;Servicios Meridiano;Oriente;Monitor 27 4K;4;409.90;0,05;Diego Rivas;Pagado
+PED-00218;24/04/2026;Mercantil Horizonte;Oriente;Docking USB-C;14;149.99;5%;CAMILA HERRERA;Pendiente
+PED-00219;24-04-2026;Agroexport Valle;Oriente;Docking USB-C;15;US$ 124.67;0%;Camila Herrera;Pagado
+PED-00220;25/04/2026;Nova Distribuciones;Norte;docking usb-c;13;152,54;0 %;Lucía Paredes;Pagado
+PED-00221;26-04-26;Logística Delta;SUR;Teclado Mecánico;5;109.06;0;Marcos Quiroz;Pagado
+PED-00222;2026-04-27;Importadora Brisa;Nrte;Silla Ergonómica;10;212,58;0,10;Camila  Herrera;Anulado
+PED-00223;2026-04-28;Comercial Andes Sur;Sur;Auriculares ANC;15;151.15;;MARCOS QUIROZ;Pagado
+PED-00224;28/04/2026;Importadora Brisa;Nrte;Laptop Pro 14;3;1091.25;0,05;Camila Herrera;Anulado
+PED-00225;28-04-2026;Tecnoandina.;Sur;Mouse Inalámbrico;08;43,01;0,05;Marcos Quiroz;ANULADO
+PED-00226;28/04/2026;Grupo Aurora;Norte;Monitor 27 4K;11;US$ 357.13;0 %;Lucía Paredes;Pagado
+PED-00227;28/04/2026;Comercial Andes Sur ;sur;AURICULARES ANC;5;148.76;5%;Marcos Quiroz;Pagado
+PED-00228;2026-04-29;Textiles Pampa;Centro;Docking USB-C;19;142.93;0;;???
+PED-00229;29/04/2026;Soluciones Orbital;Sur.;Mouse Inalámbrico;31 unid.;23.10;10%;Diego Rivas;Pendiente
+PED-00230;29/04/2026;Grupo Aurora;Norte;Monitor 27 4K;6;344.55;10 %;LUCÍA PAREDES;Pagado
+PED-00231;30-04-26; Comercial Andes Sur;Sur;DOCKING USB-C;18;USD 131;15;Marcos Quiroz;Pagado
+PED-00232;01/05/2026;Alfa Retail;Oriente;Laptop Pro 14;8;1089.28;0.1;Diego Rivas;Pagado
+PED-00233;01-05-2026;Servicios Meridiano;;Laptop  Pro  14;4 unid.;993.13;15;Diego  Rivas;Pagado
+PED-00234;2026-05-06;Mercantil Horizonte;Oriente;Docking USB-C;4;$147.37;15;Camila Herrera;Pagado
+PED-00235;06-05-26;Textiles Pampa;Centro;Docking USBC;15;97,72;0%;Valeria Soto;Pagado
+PED-00236;07/05/2026;Agroexport Valle;Oriente;Docking USB-C;13.0;USD 121;10%;Camila Herrera;pagado
+PED-00237;07/05/2026;Inversiones Titán;Cntro;Webcam HD 1080p;16;58.33;5%;Andrés Molina;ANULADO
+PED-00238;07.05.2026;Agroexport  Valle;???;Silla Ergonómica;4;199.91;5%;Camila Herrera;Pagado
+PED-00239;09/05/2026;Inversiones Titán;Centro;Silla Ergonómica;2;246,71;5 %;Andrés Molina;Pagado
+PED-00240;2026-05-10;Inversiones Titán;Centrp;Docking USB-C;14;114,16;0%;Andrés Molina;Pagado
+PED-00241;10/05/2026;Inversiones Titán;Centro;Webcam HD 1080p;19;38.42;5%;ANDRÉS MOLINA;Pagada
+PED-00242;2026-05-10;Cobalto Industrial;Centro;Webcam HD 1080p;9;37.35;15;Valeria Soto;Pagada
+PED-00243;10/05/2026;Constructora Roble;Norte;Mouse Inalambrico;35 unid.;40,22;15%;Lucía Paredes;Pendiente
+PED-00244;10-05-2026;Mercantil Horizonte ;Oriente;Docking USB-C;5 unid.;103.43;;Camila Herrera;Pdte
+PED-00245;2026-05-11;Servicios Meridiano;Oriente;Webcam HD 108p;22 unid.;58.01;0 %;Diego Rivas;Pagado
+PED-00149;;Grupo Aurora;Marte;DOCKING USB-C;3;$123.76;0%;Lucía Paredes;pend.
+PED-00246;11/05/2026;Servicios Meridiano;Oriente;Teclado Mecánico;5;65.34;0 %;Diego Rivas ;ANULADO
+PED-00247;12/05/2026;Grupo Aurora;Norte;Teclado Mecánic;9;87.64;;Lucía Paredes;pagado
+PED-00248;14-05-2026;Servicios Meridiano;Oriente;Laptop Pro 14;5;$1,296.58;15%;Diego Rivas;PENDIENTE
+PED-00249;14/05/2026;alfa retail;Oriente ;Laptop Pro 14;7;1.030,03;0%;Diego Rivas;Pagado
+PED-00250;14/05/2026;mercantil horizonte;Marte;Laptop Pro 14;1;1319.24;10;camila herrera;Pagado
+PED-00251;14.05.2026;Corporación Zenit.;Centro;TECLADO MECÁNICO;28.0;100.67;0,00;Andrés Molina;PAGADO 
+PED-00252;2026-05-15;Inversiones Titán;Cntro;Teclado Mecánico;23;79,17;5 %;Andrés  Molina;Pendiente
+PED-00253;15/05/2026;Soluciones Orbital;N/A;monitor 27 4k;9;349,00;0%;Diego Rivas ;Pdte
+PED-00254;15-05-26;Alfa Retail.;Oriente;Silla Ergonómica;1;182.12;0%;diego rivas;PAGADO 
+PED-00255;16/05/2026;Corporación Zenit.;Centro;Laptop Pro 14;3;1.116,57;;Andrés Molina;Pagado
+PED-00256;16/05/2026;Constructora Roble;N0rte;Webcam HD 1080p;24;69.99;15 %;Lucía Paredes;Pagado
+PED-00257;2026-05-17;Importadora Brisa;Norte;Silla Ergonómica;7;275.10;0%;Camila Herrera;Pendiente
+PED-00258;18.05.2026;Alfa Retail.;Oriente;Silla Ergonómica;9;257.03;5%;Diego Rivas;Pagado
+PED-00259;2026-05-18;Logística Delta;Sur;LAPTOP PRO 14;02;1246.21;5%;Marcos Quiroz;Pagado
+PED-00260;18-05-26;Inversiones Titán;Centro;Docking USB-C;1;102.02;5;Andrés Molina;Pagado
+PED-00115;2026-03-11;Importadora Brisa;Norte;Mouse Inalámbrico;18;$41.07;15;Camila Herrera;Pendiente
+PED-00261;2026-05-19;Mercantil Horizonte;Oriente;Auriculares ANC;18;91.00;0,00;Camila Herrera.;PENDIENTE
+PED-00262;20.05.2026;Importadora Brisa;Norte;Laptop Pro 14;8 unid.;1.109,87;0.05;Camila Herrera;Pagado
+PED-00263;20/05/2026;Constructora Roble;N0rte;Teclado Mecánico;17;70.99;10;Lucía Paredes;Pagado
+PED-00264;2026-05-21;Agroexport Valle;Oriente ;DOCKING USB-C;14;156,01;5%;CAMILA HERRERA;Pagado
+PED00265;21-05-2026;Alfa Retail;Oriente;Docking USB-C;2 unid.;154.86;0.05;Diego Rivas;Pendiente
+PED-00266;;Textiles Pampa;Centro;Monitor 27 4K;2;USD 399;0.05;Valeria Soto ;Anulado
+PED-00267;21/05/2026;COMERCIAL ANDES SUR;Sur;Laptop Pro 14;8.0;USD 1008;;Marcos Quiroz ;pend.
+PED-00268;21/05/2026;Textiles Pampa;Centro;WEBCAM HD 1080P;1;63.95;5;Valeria Soto;Pagado
+PED-00269;21/05/2026;LOGÍSTICA DELTA;Sur.;Mouse Inalambrico;34;$28.52;0.1;Marcos Quiroz;Pagado
+PED-00270;21/05/2026;Mercantil Horizonte;Oriente;Webcam HD 1080p;10;44.96;0.15;Camila Herrera;Pendiente
+PED-00271;21-05-26;Inversiones Titán;Centro;Mouse Inalámbrico;38;32,47;5%;Andrés Molina;Anulado
+PED-00272;2026-05-21;Alfa Retail;Orient;Docking USB-C;12;111.34;0,00;DIEGO RIVAS;pagado
+PED-00273;21/05/2026;Alfa Retail;Oriente;Monitor 27 4K;9;369.10;15%;DIEGO RIVAS;Pagado
+PED-00274;22/05/2026;Logística Delta;Sur;Teclado Mecánico;20;87.09;15 %;Marcos Quiroz;Pagado
+PED-00275;22/05/2026;Tecnoandina;Sur;Auriculares ANC;1;164.56;0 %;Marcos Quiroz;PAGADO 
+PED-00276;23/05/2026;Cobalto Industrial;Centro;Laptop Pro 14;4;1.045,85;5;Valeria Soto;Pagado
+PED-00277;24-05-2026;Corporación Zenit;Centro ;Monitor 27 4K;6;USD 356;0 %;Andrés Molina;Pendiente
+PED-00278;24.05.2026;Logística Delta;Sr;Mouse Inaámbrico;6;29.88;; Marcos Quiroz;Pdte
+PED-00279;25/05/2026;Agroexport Valle ;Oriente;Laptop Pro 14;1.0;1.219,08;5;Camila Herrera.;Pagado
+PED-00280;2026-05-25;Corporación Zenit;Centro;Silla Ergonómica;1;187.66;0,00;Andrés Molina;Pendiente
+PED-00281;2026-05-25;CORPORACIÓN ZENIT;Centro;Monitor 27 4K;2;362.34;10;andrés molina;PAGADO 
+PED-00282;25-05-26; Servicios Meridiano;Oriente;Mouse Inalámbrico;8;US$ 37.00;5%;Diego Rivas;Pagado
+PED-00283;2026-05-25;Cobalto Industrial;Centro;Laptp Pro 14;8;1.122,78;0%;Valeria Soto;PAGADO 
+PED-00284;2026-05-26;Logística Delta;Sur;Monitor 27 4K;1;gratis;0.05;Marcos Quiroz;Pagado
+PED-00285;27/05/2026;Nova Distribuciones ;Norte;silla ergonómica;9;205.79;0;Lucía Paredes;PAGADO 
+PED00286;27/05/2026;Alfa Retail;Oriente;Monitor 27 4K;8 unid.;323.21;0;Diego Rivas;Pagado
+PED-00287;2026-05-28;;Centro;Mouse Inalámbrico;27;28.22;0;;Pagado
+PED-00288;2026-05-29;Cobalto Industrial;centro;Monitor 27 4K;5;341.66;10%;Valeria Soto ;Pagado
+PED-00289;30/05/2026;Constructora Roble;Nrte;Teclado Mecánico;12;US$ 100.47;10%;Lucía Paredes;pagado
+PED-00290;31.05.2026;Textiles Pampa;Centro;Teclado Mecánico;2;91.47;0;Valeria Soto;Pendiente
+PED-00291;01/06/2026;Inversiones Titán;Centro;Laptop Pro 14;4;1,037.81;0;Andrés Molina;Pagado
+ped-00292;01/06/2026;Nova Distribuciones;Norte;Monitor 27 4K;8;312.73;10;Lucía Paredes;Pagada
+PED-00293;01/06/2026;Soluciones Orbital;SUR;Laptop Pro 14;5;1.062,74;0;Diego Rivas;pend.
+PED-00294;2026-06-01;Servicios Meridiano;Oriente ;Auriculares ANC;7;118.25;0,15;Diego Rivas;Pagada
+PED-00295;02/06/2026;Inversiones Titán ;Centro;Auriculares ANC;7;174,36;0%;Andrés Molina;Pagado
+PED00296;02/06/2026;Nova Distribuciones;Norte;Monitor 27 4K;6;400,36;0.05;Lucía Paredes;Pagado
+PED-00083;2026-02-16;Corporación Zenit;Centro;Silla Ergonómic;6;230,95;5%;Andrés Molina;Pendiente
+PED-00297;02/06/2026;Logística Delta;Sr;Auriculares ANC;20;158.83;5%;Marcos Quiroz;Pagado
+PED-00298;03/06/2026;Cobalto Industrial;Centrp;Auriculares ANC;2;$96.37;0.15;Valeria Soto;Pagado
+PED-00299;04-06-26;Constructora Roble;Norte;Auriculares ANC;11;USD 152;15%;Lucía Paredes;Pagado
+PED-00300;04/06/2026;Logística Delta;Sur;Laptop Pro 14;5;1011.40;0;Marcos Quiroz;Pagado
+PED-00301;2026-06-04;Servicios Meridiano;Oriente;Laptop Pro 14;1;1084.85;0%;Diego Rivas;Pagado
+PED-00302;2026-06-04;Nova Distribuciones;Norte;Auriculares ANC;7 unid.;US$ 120.47;;Lucía Paredes;Pagado
+PED-00303;04/06/2026;Textiles Pampa;Centro;Monitor 27 4K;;$386.64;10%;Valeria Soto;Pagado
+PED-00304;07-06-2026;Agroexport Valle ;Oriente;Mouse Inalámbrico;13;23.79;0 %;Camila Herrera;Pagado
+PED-00305;;Mercantil Horizonte;Oriente;Teclado Mecánico;20;103.64;0.05;Camila Herrera;Pagado
+PED-00306;08-06-2026;Importadora Brisa;Norte;mouse inalámbrico;37;31.21;10;Camila Herrera;pagado
+PED-00307;2026-06-08;Soluciones Orbital;Sur;Auriculares ANC;15;$103.64;0 %;Diego Rivas;Pagada
+PED-00308;10-06-26;Cobalto Industrial;Centro;auriculares anc;19;87,86;15;Valeria Soto;Pagado
+PED-00309;11/06/2026;Soluciones Orbital;Sr;Teclado Mecanico;20;88.92;10%;Diego Rivas;Pdte
+PED-00310;11-06-26;Logística Delta;Sur;Docking USB-C;19;144.37;0%;Marcos Quiroz;Pendiente
+PED-00311;12.06.2026; Corporación Zenit;Centro;Monitor 27 4K;4;288.26;0%;Andrés Molina;Pendiente
+PED-00312;2026-06-12;Grupo Aurora;Norte;Dockin USB-C;07;126.56;0 %;Lucía Paredes;Pagado
+PED-00313;12/06/2026;Alfa Retail ;Oriente;Servicio instalación;2;1297.60;0;Diego Rivas;Anulado
+PED-00314;13-06-26;Logística Delta;Sur;Webcam HD 1080p;14;USD 68;5%;Marcos Quiroz ;Anulado
+PED-00315;2026-06-14;Mercantil Horizonte;Oriente;Teclado Mecánico;7;68.52;10%;Camila Herrera ;PENDIENTE
+PED-00316;15/06/2026;LOGÍSTICA DELTA;Sur;Webcam HD 1080p;13;66,86;10 %;Marcos Quiroz;Pendiente
+ PED-00317 ;16/06/2026;Corporación Zenit;;Auriculares ANC;14;105.16;0%;ANDRÉS MOLINA;Pendiente
+PED-00351;13/05/2026;Alfa Retail;Oriente;Docking USB-C
+PED-00318;2026-06-16;Importadora Brisa;Norte;Docking USB-;9;USD 160;10;CAMILA HERRERA;Pagado
+PED-00319;16/06/2026;Nova Distribuciones;Norte ;Auriculares ANC;11 unid.;116,47;5;Lucía Paredes;anulada
+PED-00320;2026-06-17;corporación zenit;Cntro;Teclado  Mecánico;26.0;97.42;10;Andrés  Molina;Pagado
+ PED-00321 ;18/06/2026;GRUPO AURORA;NORTE;Docking USB-C;8;N/A;0;Lucía Paredes;Pendiente
+PED-00235;06-05-26;Textiles Pampa;Centro;Docking USBC;15;97,72;0%;Valeria Soto;Pagado
+;2026-06-18;Agroexport Valle;Orient;MOUSE INALÁMBRICO;tres;39.86;0;Camila Herrera;pagado
+PED-00323;;Cobalto Industrial;Centro;Teclado Mecánico;22;104.88;0%;Valeria Soto;Pendiente
+ped-00324;19/06/2026;Importadora Brisa;Norte;Silla Ergonómica;03;248.10;10%;Camila Herrera;Pagado
+ PED-00325 ;2026-06-20;Tecnoandina;Sur;Auriculares ANC;15;79.16;0;;Pagado
+PED-00326;2026-06-21;Cobalto Industrial;;Docking USB-C;18;$118.47;0;Valeria Soto;PAGADO 
+PED-00327;21-06-2026;Soluciones Orbital;Sur;Docking USB-C;2;101,95;15%;Diego Rivas;Pagado
+PED-00328;21/06/2026;Servicios Meridiano ;Oriente;Silla Ergonómica;3;$224.62;0%;Diego Rivas;Pendiente
+PED-00329;21.06.2026;Nova Distribuciones;Nrte;Auriculares ANC;17;172,57;;Lucía Paredes;Pagado
+PED-00330;21/06/2026;Tecnoandina;Sur;teclado mecánico;6;63.76;0,15;Marcos Quiroz;Pagado
+PED-00331;22/06/2026;;Norte;Silla Ergonómica;10;294.22;0%;Lucía Paredes;Pagado
+PED-00332;2026-06-22;Comercial Andes Sur;Sr;Auriculares ANC;6;129.01;;Marcos Quiroz.;Pagado
+PED-00333;22.06.2026;Agroexport Valle;Oriente;Monitor 27 4K;6;385.15;15%;Camila Herrera;Pendiente
+;23.06.2026;Alfa Retail;oriente;Monitor 27 4K;4;319.36;0%;Diego Rivas;Pendiente
+PED-00335;23/06/2026;Grupo Aurora;Norte;Auriculares ANC;14 unid.;127.75;10 %;Lucía Paredes;Pagado
+PED-00336;23.06.2026;Soluciones Orbital;SUR;Silla Ergonómica;6;206.83;0,00;Diego  Rivas;pagado
+PED-00337;23-06-26;Corporación Zenit;Centro;Silla Ergonomica;2 unid.;162,73;5;Andrés Molina;Pagada
+ PED-00338 ;23-06-2026;NOVA DISTRIBUCIONES;Norte;Monitor 27 4K;10;318.38;0%;Lucía Paredes;PAGADO 
+PED-00339;2026-06-24;Constructora Roble;Nrte;Mouse Inalambrico;20.0;41.31;0,00;Lucía Paredes.;Pdte
+PED-00340;24.06.2026;Soluciones  Orbital;Sur.;Monitor 27 4K;7;405,77;0,00;Diego Rivas;Pagado
+PED-00341;24/06/2026;INVERSIONES TITÁN;Centro;Monitor 27 4K;800;312.44;0,10;Andrés Molina;Pagada
+PED-00342;2026-06-24;INVERSIONES TITÁN;Centro;Docking USB-C;17;99.61;0.15;andrés molina;Pendiente
+PED-00343;24/06/2026;Constructora Roble;Norte;Monitor 27 4K;5;326.45;0%;Lucía Paredes;PAGADO 
+ PED-00344 ;25/06/2026; Cobalto Industrial;Centrp;Silla Ergonómica;3;318,43;0,00;Valeria Soto ;Pagado
+PED-00345;25/06/2026;Comercial Andes Sur;Sur;Mouse Inalámbrco;5;39.72;15 %;Marcos Quiroz;ANULADO
+PED-00346;26/06/2026;Textiles Pampa;centro;MONITOR 27 4K;13;412.16;0 %;Valeria Soto;Pagada
+PED00347;2026-06-26;Comercial Andes Sur;Sur.;monitor 27 4k;5;344.45;0.15;Marcos Quiroz;Pendiente
+PED-00348;2026-06-26;Mercantil  Horizonte;oriente;Docking USB-C;1;129.84;0.15;;Pagado
+PED-00018;2026-01-03;Nova Distribuciones;N0rte;Mouse Inalámbrico;37 unid.;$21.01;15%;Lucía Paredes;Pagado
+ PED-00349 ;2026-06-29;Constructora  Roble;Norte;Mouse Inalámbrico;37;USD 33;10 %;lucía paredes;pagado
+PED-00350;2026-06-30;Servicios Meridiano;Oriente;Teclado Mecánico;9;US$ 65.42;0,00;Diego Rivas;Pagada
+PED-00351;30/06/2026;Nova Distribuciones;Nrte;WEBCAM HD 1080P;25;44,88;5%;Lucía Paredes;Pagado
+PED-00352;01/07/2026;Mercantil Horizonte;Oriente;Teclado Mecánico;26;$94.07;0%;Camila Herrera;Pendiente
+PED-00353;01.07.2026;Agroexport Valle;Oriente;Docking USB-C;1;99.98;15%;Camila Herrera;Pagado
+PED-00354;01/07/2026;Agroexport Valle;Oriente;Laptop Pro 14;6;1.293,60;5%;Camila Herrera;Pagado
+PED-00355;02/07/2026;Tecnoandina;sur;auriculares anc;3;US$ 94.54;15;Marcos Quiroz;Pagado
+PED-00356;02-07-2026;Agroexport Valle;Oriente;Monitor 27 4K;11;309.89;5%;Camila Herrera;PAGADO 
+PED-00357;02/07/2026;Tecnoandina;Sur;Laptop  Pro  14;2;1307,98;5;Marcos Quiroz;PAGADO 
+PED-00358;02/07/2026;Textiles Pampa;Cntro;Laptop Pro 14;3;US$ 1,308.60;0;Valeria Soto;Pagada
+PED-00359;02/07/2026;Nova Distribuciones;Norte;Webcam HD 1080p;12;35,57;0;Lucía Paredes;Pagado
+PED-00360;03-07-26;Cobalto Industrial;Centro;Docking USB-C;4;96.27;;VALERIA SOTO;Pagada
+PED-00361;04.07.2026;Inversiones Titán;Centrp;Laptop Pro 14;6;$1,262.88;5%;Andrés Molina;Pagado
+PED-00362;04/07/2026;Inversiones Titán;Centro;LAPTOP PRO 14;7;1.001,55;10%;Andrés Molina;Pagado
+PED00363;05-07-26;Nova Distribuciones;Norte;DOCKING USB-C;19;116.77;0,10;Lucía Paredes;Pendiente
+PED-00364;06.07.2026;Cobalto Industrial;;Docking USB-C;5;109,77;0%;;Pagado
+PED-00365;00/00/0000; Grupo Aurora;Norte;docking usb-c;11;159.56;5%;Lucía Paredes;Anulado
+PED-00366;07-07-2026;Logística Delta;Sur ;Webcam HD 1080p;23;54.30;0;Marcos Quiroz;Pagado
+PED-00367;2026-07-07;Cobalto Industrial;Centro;AuricularesANC;14;USD 92;0%;Valeria Soto;Pagado
+PED-00368;07/07/2026;Textiles Pampa;Centro;Docking USB-C;1 unid.;112.30;0;Valeria Soto;Pendiente
+PED-00183;07-04-2026;Inversiones Titán;Centro;Silla  Ergonómica;8 unid.;173.38;0%;Andrés Molina;Pagado
+PED-00369;08/07/2026;Agroexport Valle;;Silla Ergoómica;1;318.34;5%;Camila Herrera;Pagado
+PED-00370;08/07/2026;Servicios Meridiano;Oriente ;Mouse Inalambrico;18;USD 28;;Diego Rivas;Pagado
+PED-00371;2026-07-08;COMERCIAL ANDES SUR;Sur;Laptop Pro 14;1 unid.;1053,88;0.15;Marcos Quiroz;Pagado
+PED-00372;2026-07-08;Agroexport Valle ;oriente;Mouse Inalámbrico;21;39.32;0.05;CAMILA HERRERA;Pagado
+ped-00373;08/07/2026;Textiles Pampa ;CENTRO;Mouse Inalámbrico;30;36.38;15%;Valeria Soto;Pagado
+PED-00374;09/07/2026;Agroexport Valle;Oriente;Silla  Ergonómica;6;195.15;0.05;Camila Herrera;Pagado
+PED-00375;09/07/2026;Cobalto Industrial;centro;Laptop Pro 14;1;$1,180.09;0%;Valeria Soto ;pagado
+PED-00376;2026-07-10;Mercantil Horizonte;Oriente;monitor 27 4k;-1;375,40;0%;CAMILA HERRERA;Pagada
+PED-00377;10/07/2026;Mercantil Horizonte;Oriente;Monitor 27 4K;13;300,52;0;Camila Herrera;Pagado
+PED-00378;10-07-2026;Servicios Meridiano;Oriemte;Teclado Mecanico;22 unid.;US$ 109.70;0%;Diego Rivas ;Pagado
+PED-00379;10-07-26;SOLUCIONES ORBITAL;Sur;Servicio instalación;13;21.03;5%;Diego Rivas;Pendiente
+PED-00380;2026-07-13;Corporación Zenit;Centro ;MouseInalámbrico;38;23.09;5%; Andrés Molina;Pagado
+ped-00381;2026-07-13;Inversiones Titán ;Centro;Auriculares ANC;13;176,36;0;Andrés Molina ;Pendiente
+PED-00382;13-07-2026; Constructora Roble;;webcam hd 1080p;17;67.72;0.1;Lucía Paredes;Pagado
+PED-00383;2026-07-13;Inversiones Titán;Centro ;Laptop Pro 14;8;$1,272.99;15%;Andrés Molina;Pagado
+PED-00384;2026-07-13;Alfa Retail ;Oriente;Mouse Inalambrico;20;37.98;0;Diego Rivas;Pendiente
+PED-00385;14/07/2026;Cobalto Industrial;Centro;Auriculares ANC;5;139.98;0;;Pagado
+PED-00386;14-07-2026;Nova Distribuciones;N0rte;Mouse Inalámbrico;3;36,13;10;Lucía Paredes;Pagado
+PED00387;2026-07-14;Importadora Brisa;Norte;Auriculare ANC;3;170.78;10%;Camila Herrera;Pagado
+PED-00388;14-07-2026;Mercantil Horizonte;Marte;Teclado Mecánico;4;104.99;0%;Camila Herrera;Pendiente
+PED-00389;15/07/2026;Importadora Brisa;Norte ;teclado mecánico;7 unid.;$97.11;5;Camila Herrera;pend.
+PED-00390;15/07/2026;Comercial Andes Sur;Sur;Webcam HD 1080p;20;66.49;15 %;Marcos Quiroz ;Pagado
+PED-00391;15-07-2026;Mercantil Horizonte;Oriente;Mouse Inalámbrico;26;35,47;5%;Camila  Herrera;PENDIENTE
+ped-00392;15/07/2026;Grupo Aurora;Norte;Webcam HD 1080p;3;68.25;5;Lucía Paredes;Pendiente
+PED-00393;2026-07-15;Nova Distribuciones ;Norte;Silla  Ergonómica;1;gratis;5%;Lucía Paredes;Pendiente
+PED-00394;15/07/2026;Mercantil Horizonte;Oriente;Laptop Pro 14;2;USD 973;5%;Camila Herrera;Pagado
+PED-00395;15-07-2026;Mercantil Horizonte;Oriente ;mouse inalámbrico;21;37.44;5;Camila Herrera;Pagado
+PED-00396;16/07/2026;Grupo Aurora ;Norte;Mouse Inalámbrico;18;$34.71;;Lucía Paredes;Pendiente
+PED-00397;17-07-26;Corporación Zenit;centro;Laptop Pro 14;6;1240.31;5;Andrés Molina;pagado
+PED-00398;17/07/2026;SOLUCIONES ORBITAL;Sur;Docking USB-C;8;143.99;0%;Diego Rivas;Pagado
+PED-00399;2026-07-17;Logística Delta;Sr;Mouse Inalámbrico;40;33,79;0;Marcos Quiroz;Pagado
+PED-00400;2026-07-17;comercial andes sur;Sur;Laptop Pro 14;4;1,089.89;0;Marcos Quiroz;Pagado
+PED-00401;17-07-26; Alfa Retail;Oriente;Laptop Pro 14;2;1193,62;0.15;Diego Rivas;pagado
+PED-00402;2026-07-18;GRUPO AURORA;Norte;Silla Ergonómica;09;238.46;0%;Lucía Paredes;pagado
+PED-00403;19/07/2026;Mercantil Horizonte;Oriente;Monitor 27 4K;15;355,27;15%;Camila Herrera;PENDIENTE
+PED-00404;19-07-2026;Alfa Retail;Oriente;Laptop Pro 14;7;959.57;0%;Diego  Rivas;Anulado
+PED-00405;19-07-2026;Servicios Meridiano ;Oriente;Mouse Inalámbrico;31;USD 38;0.1;Diego Rivas;Pagado
+PED-00406;21-07-26;Servicios Meridiano;Oriente;Mouse Inalámbrico;21;29.60;15%;Diego Rivas;Pagado
+PED-00407;2026-07-21;Soluciones Orbital;Sur;Monitor 27 4K;2;308.96;15%;Diego Rivas;Pagado
+PED-00408;22/07/2026;SERVICIOS MERIDIANO;Oriente;Silla Ergonómica;5;$164.77;0%;Diego Rivas;Anulado
+PED-00409;22/07/2026;Grupo Aurora;Norte;Latop Pro 14;4;;0,05;Lucía Paredes;Pendiente
+PED-00304;07-06-2026;Agroexport Valle ;Oriente;Mouse Inalámbrico;13;23.79;0 %;Camila Herrera;Pagado
+PED-00410;2026-07-22;Inversiones Titán;Centro;Teclado Mecánico;21.0;$77.44;0.05;Andrés Molina;Pagada
+PED-00411;22/07/2026;Cobalto Industrial;Centro;Webcam HD 1080p;23;48.93;0;Valeria Soto;Pendiente
+PED-00412;2026-07-22;Grupo Aurora;Norte;MOUSE INALÁMBRICO;29;$30.25;5;Lucía Paredes;Pendiente
+PED-00413;23-07-2026;Inversiones Titán;Centro;Teclado Mecánico;10;$100.06;0;Andrés Molina;pagado
+PED-00414;23/07/2062;Soluciones Orbital;Sur;Docking USB-C;3;95.17;10%;Diego Rivas;Pendiente
+PED-00415;23/07/2026;Importadora Brisa;Norte;Auriculares ANC;3;USD 94;0.05;Camila Herrera;Pagado
+PED-00416;23/07/2026;Logística Delta;SUR;Docking USB-C;18;101.85;0.15;;ANULADO
+PED-00417;23.07.2026;Agroexport Valle;Oriente;Silla Ergonómica;6;313,11;;Camila Herrera;Pagado
+PED-00418;2026-07-24;Servicios Meridiano ;Oriente;Auriculares ANC;1;102.64;5%;Diego Rivas;Anulado
+;2026-13-05;Agroexport Valle;Oriente;Laptop Pro 14;6;1.116,52;0%;Camila Herrera ;Pagado
+PED-00420;2026-07-24;Inversiones Titán;Centro;Mouse Inalámbrico;36;USD 34;10;Andrés Molina;Pagada
+PED-00421;2026-07-26;Logística Delta;Sur;Monitor 27 4K;3;303.07;0.15;marcos quiroz;Pagada
+PED-00422;27/07/2026;Soluciones Orbital;;monitor 27 4k;14;341,21;5%; Diego Rivas;Pagado
+PED-00423;28-07-2026;Comercial Andes Sur;Sur;Teclado Mecánico;1;89.31;0;Marcos Quiroz;pagado
+PED-00424;2026-07-28;cobalto industrial;Centro;Laptop Pro 14;6 unid.;$961.53;10;Valeria Soto ;Pagada
+PED-00425;28/07/2026;Comercial Andes Sur;Sur;Laptop Pro 14;7;1116.55;10%;marcos quiroz;Pagada
+PED-00426;29-07-26;Logística Delta;Sur;Docking USB-C;03;$102.78;0 %;Marcos Quiroz;Pagado
+PED-00427;2026-07-29;Servicios Meridiano;Oriente;Teclado Mecánico;27;69.41;;Diego Rivas;Pagado
+PED-00428;2026-07-29;Textiles Pampa;Centro;Mouse Inalámbrico;6;32.83;0%;Valeria Soto;Pagado
+PED-00429;30/07/2026;Comercial Andes Sur;Sur;Mouse Inalámbrico;11;31.67;;Marcos Quiroz;Pendiente
+PED00430;2026-07-30;Nova Distribuciones;Norte;Monitor 27 4K;9;303.29;250%;Lucía Paredes;Pendiente
+PED-00431;30/07/2026;Corporación Zenit;Centro;Auriculares ANC;3;149.65;;Andrés Molina;Pendiente
+PED00432;30/07/2062;Servicios Meridiano;Oriente;Auriculares ANC;18;77.88;5%;Diego Rivas;Pagado
+ PED-00433 ;2026-07-31;importadora brisa;Norte;Mouse Inalámbrico;25;36.88;5;;Pagado
+PED-00434;01/08/2026;Servicios Meridiano;Oriente;Lapop Pro 14;5;1119.99;10%;Diego Rivas;pagado
+PED-00435;02.08.2026;Constructora Roble;Norte;Auriculares ANC;2;121.12;0%;Lucía Paredes;Pagado
+PED-00436;03/08/2026;cobalto industrial;centro;Monitor 27 4K;12;$300.25;5%;Valeria Soto;Pagado
+PED-00437;03.08.2026;Importadora Brisa;Norte;Auriculares ANC;13;72,46;10%;Camila Herrera;Pagado
+PED-00438;03/08/2026;Grupo Aurora;Norte;Auriculares ANC;6;$144.60;0,00;Lucía Paredes;Pagada
+PED-00439;2026-08-03;Nova Distribuciones;Norte;Webcam HD 1080p;11;US$ 46.19;15%;Lucía Paredes;Pagado
+PED00440;03/08/2026; Tecnoandina;Sur;Webcam HD 1080p;19;50,10;15%;Marcos Quiroz;Pagado
+PED-00441;03/08/2026;Soluciones Orbital;Sur;Webcam HD 1080p;25;47.71;0 %;Diego Rivas;Pagado
+PED-00442;05-08-2026;Servicios Meridiano;Oriente;Auriculares ANC;14;90,78;0 %;Diego Rivas;Pagado
+PED-00443;2026-08-05;Mercantil Horizonte;Oriemte;Monitor 27 4K;8;411,20;0;Camila Herrera;Pagado
+PED-00444;05/08/2026;Agroexport Valle;Oriente ;Auriculares ANC;3;$156.13;0,00;Camila Herrera;Pendiente
+PED-00445;2026-08-05;Cobalto Industrial;centro;Monitor 27 4K;6;337.81;0%;Valeria Soto;PAGADO 
+PED-00446;05/08/2026;COMERCIAL ANDES SUR;Sur;Mouse Inalámbrico;20;43,62;0;Marcos Quiroz.;Pagado
+PED-00447;05-08-2026;Tecnoandina ;Sur;Webcam HD 180p;21;40.46;15;Marcos Quiroz;Pagada
+PED-00448;06/08/2026;Nova  Distribuciones;Norte;Teclado Mecánico;24;$70.13;10;Lucía Paredes;Pagado
+PED-00449;06/08/2026;Soluciones Orbital;Sur;Mouse Inalámbrico;6;38.58;0.1;Diego Rivas;Pendiente
+PED-00450;;Cobalto Industrial;Centro;Silla Ergonómica;4;250,12;0.1;Valeria  Soto;Pagado
+PED-00451;07/08/2026;Agroexport Valle;ORIENTE;Silla Ergonómica;3;$180.40;15%;Camila Herrera;Pagado
+PED00452;07-08-26;Tecnoandina;Sur;Monitor 27 4K;10;372.76;0,00;Marcos Quiroz;Anulado
+PED-00453;2026-08-07;Servicios Meridiano;Oriente;Webcam HD 1080p;21;63.19;5%;Diego Rivas;Pendiente
+PED-00240;2026-05-10;Inversiones Titán;Centrp;Docking USB-C;14;114,16;0%;Andrés Molina;Pagado
+PED-00454;09/08/2026;Grupo Aurora;Norte;Auriculares ANC;16;97.48;5%;Lucía Paredes;pagado
+PED-00455;09/08/2026;Soluciones Orbital ;Sr;Mouse Inalámbrico;2;23.51;15%;Diego Rivas;pagado
+ PED-00456 ;09/08/2026;Grupo Aurora;Norte;Latop Pro 14;6;USD 956;5%;Lucía Paredes.;ANULADO
+PED-00457;10/08/2026;SERVICIOS MERIDIANO;Oriemte;Mouse Inalámbrico;-1;31.28;10%;Diego Rivas;Pagado
+PED-00458;2026-08-10;Corporación  Zenit;N/A;Webcam HD 1080p;23;65.35;0%;Andrés Molina;Pagado
+PED-00459;10/08/2026;Constructora Roble;Norte ;Docking USB-C;13;91.78;15;Lucía Paredes.;Pendiente
+PED-00460;10/08/2026;Logística Delta;Sur;Webcam HD 1080p;16;USD 44;0%;Marcos Quiroz;Anulado
+PED-00461;2026-08-10;Mercantil Horizonte ;Oriente;Monitor 27 4K;10;USD 281;5 %;CAMILA HERRERA;Pagado
+PED-00462;2026-08-11; Inversiones Titán;???;Webcam HD 1080p;9;56.77;0%;Andrés Molina.;Pendiente
+PED-00463;12/08/2026;Alfa Retail;Oriente ;Laptop Pro 14;5;$1,140.50;0%;Diego Rivas;pagado
+PED-00464;2026-08-12;Importadora Brisa;Norte;Webcam HD 1080p;23;69.09;10%;CAMILA HERRERA;Pagado
+PED-00465;2026-08-12;Agroexport Valle;Oriente;Silla Ergonómica;6;181,92;0.15;camila herrera;Pendiente
+ PED-00321 ;18/06/2026;GRUPO AURORA;NORTE;Docking USB-C;8;N/A;0;Lucía Paredes;Pendiente
+PED00466;2026-08-13;Comercial Andes Sur;Sur;Auiculares ANC;1;176,12;0%;MARCOS QUIROZ;pagado
+PED-00467;2026-08-13;Alfa Retail;Oriente ;Laptop Pro 14;6;1165.78;0.1;Diego Rivas;Anulado
+PED-00468;2026-08-13;Textiles Pampa;centro;Monitor 27 4K;12;411.34;0,00;Valeria Soto;Pagado
+ PED-00469 ;13/08/2026;SOLUCIONES ORBITAL;;Monitor 27 4K;15;336.20;0.1;Diego Rivas;PENDIENTE
+PED-00470;13.08.2026;TEXTILES PAMPA;Centro;Mouse Inalámbrico;3;29.54;0%;valeria soto;Pagada
+PED-00471;14/08/2026;Textiles Pampa;Cntro;Auriculares ANC;9;178,14;0,00;VALERIA SOTO;Pagado
+PED-00472;14-08-26;COBALTO INDUSTRIAL;Centro;TECLADO MECÁNICO;12;89.01;10%;Valeria Soto;PENDIENTE
+PED00473;14-08-26;Constructora Roble;NORTE;mouse inalámbrico;23;40.46;0 %;LUCÍA PAREDES;Pagado
+PED-00474;2026-08-16;Importadora Brisa;Norte;Docing USB-C;3;134,76;0,00;Camila Herrera;Pagado
+PED-00475;16/08/2026; Corporación Zenit;Cntro;Docking USB-C;3;USD 140;10%;Andrés Molina;Pagado
+PED-00476;17-08-2026;Mercantil Horizonte;Oriente;Teclado Mecánico;29;71,29;10;Camila Herrera.;Pendiente
+PED-00477;17.08.2026;COMERCIAL ANDES SUR;Sur;Webcam HD 1080p;8;46.21;0;marcos quiroz;Pagado
+ PED-00478 ;17/08/2026;Grupo Aurora;Nrte;Silla Ergonómica;10;224,44;0,05;LUCÍA PAREDES;Pagado
+PED-00479;17-08-2026;Constructora Roble;Norte;Servicio instalación;35;USD 37;0%;Lucía Paredes;Pagada
+PED-00480;18/08/2026;Tecnoandina;Sur;Monitor 27 4K;1;370.92;5%;Marcos Quiroz;Pendiente
+PED-00481;2026-08-19;;Norte;Docking USB-C;17;US$ 108.04;0,05;Lucía Paredes;PAGADO 
+PED-00482;2026-08-19;Alfa Retail;Marte;Webcam HD 108p;19;41.19;0.05;Diego Rivas;Pdte
+PED-00483;19/08/2026;Textiles Pampa;Centro;Silla Ergonómica;9;291,40;0,15;Valeria Soto;Pagada
+PED-00484;19/08/2026;Inversiones Titán;Centro;Teclado Mecánico;10;$76.02;5%;Andrés Molina;Pdte
+PED-00485;20-08-2026;tecnoandina;sur;Webcam HD 1080p;24;36.68;0%;Marcos Quiroz;Pagado
+PED-00486;20/08/2026;Nova Distribuciones;Norte;Laptop Pro 14;7;1032,41;0,10;Lucía Paredes;PAGADO 
+PED-00487;20-08-26;Soluciones Orbital;Sur;Auriculares ANC;1;115,75;5%;Diego  Rivas;Pagado
+PED-00488;21.08.2026;Inversiones  Titán;Centro;Mouse Inalámbrico;35;27.16;15;Andrés Molina;Pagado
+PED-00489;21.08.2026;Grupo Aurora;Nrte;Teclado Mecánico;25;70.52;0;Lucía Paredes;Pagado
+PED-00490;2026-08-21;Tecnoandina;Sur;Monitor 27 4K;9;$414.98;0%;Marcos Quiroz;Pagado
+PED-00491;21/08/2026;Agroexport Valle.;Orient;Auriculares ANC;10;US$ 145.42;5%;Camila Herrera;Pagado
+PED00492;22/08/2026;Grupo Aurora;Norte;Silla Ergonómica;7;270.82;5;Lucía  Paredes;PENDIENTE
+PED-00493;2026-08-23;Comercial Andes Sur;Sur ;Silla Ergonómica;9;296,61;0.15;Marcos Quiroz;Pagado
+PED-00494;23/08/2026;Tecnoandina ;Sur.;Mouse Inalámbrico;37;;10%;Marcos Quiroz;Pagado
+PED-00495;24/08/2026;Alfa Retail;ORIENTE;Teclado Mecánico;10;102.03;0;Diego Rivas;Pagada
+PED-00496;24-08-26;Alfa Retail.;Oriente;Silla Ergonomica;02;278,46;;Diego Rivas;Pendiente
+PED-00497;25/08/2026;Alfa Retail;Oriente;Docking USB-C;7;157,31;;Diego Rivas;Pagado
+PED-00498;2026-08-25; Servicios Meridiano;;Webcam HD 1080p;2;$44.55;15 %;diego rivas;Pagado
+PED-00499;25/08/2026;TEXTILES PAMPA;Centrp;MONITOR 27 4K;6;380.68;5;Valeria Soto ;Pagado
+PED-00402;2026-07-18;GRUPO AURORA;Norte;Silla Ergonómica;09;238.46;0%;Lucía Paredes;pagado
+PED-00500;26/08/2026;Textiles Pampa;Centrp;Docking USB-C;5;130.79;15%;Valeria Soto;Anulado
+PED-00501;26/08/2026;Agroexport Valle.;Orient;Monitor 27 4K;8;320.33;10%;Camila Herrera;Pagado
+PED-00502;27-08-2026;Importadora Brisa;Norte;Teclado Mecánico;14;72,55;;Camila Herrera;Pdte
+PED-00503;27/08/2026;Logística Delta;Sur;Mouse Inalámbrico;21;US$ 31.27;10%;Marcos Quiroz;Pendiente
+PED-00504;2026-13-05;Nova  Distribuciones;Norte;Monitor 27 4K;1300;324.34;0.15;Lucía Paredes;Pagado
+PED-00505;2026-08-27;Tecnoandina;Sur;Silla Ergonómica;1;210,07;0;Marcos Quiroz;Pagado
+ PED-00506 ;27-08-2026;Agroexport Valle;Oriente;Docking USB-C;1;121.30;5%;Camila Herrera;pagado
+PED-00507;27/08/2026;Agroexport Valle ;oriente;silla ergonómica;1;USD 203;0%;Camila Herrera;Pagado
+PED-00508;28/08/2026;Alfa Retail;oriente;Mouse Inalámbrico;21;$32.12;0%;Diego Rivas;Pagado
+PED-00346;26/06/2026;Textiles Pampa;centro;MONITOR 27 4K;13;412.16;0 %;Valeria Soto;Pagada
+PED-00509;29/08/2026; Servicios Meridiano;Oriente;Docking USB-C;12;122,55;0 %;Diego Rivas;Pagado
+PED-00510;31-08-26;Textiles Pampa;centro;Auriculares ANC;6;105.93;15 %;Valeria Soto;Pendiente
+PED-00511;2026-08-31;Grupo Aurora;Norte;Auriculares ANC;13;$146.40;5%;Lucía Paredes;Pendiente
+PED-00512;2026-08-31;Inversiones Titán;Centro;Laptop Pro 14;5;1146.89;0,10;Andrés Molina;pend.
+PED-00513;31/08/2026;Soluciones Orbital;Sur;WEBCAM HD 1080P;7 unid.;46,45;0;Diego Rivas ;Pagado
+PED-00514;2026-08-31;Grupo Aurora;norte;Teclado ecánico;19;104,51;15%;Lucía Paredes;PAGADO 
+PED-00515;2026-08-31;Nova Distribuciones;Norte;Laptop Pro 14;1;1328.71;0;Lucía Paredes.;Pagado
+PED-00516;31/08/2026;Nova Distribuciones;Norte;Silla Ergonómica;3;USD 152;;Lucía Paredes;PENDIENTE
+PED-00310;11-06-26;Logística Delta;Sur;Docking USB-C;19;144.37;0%;Marcos Quiroz;Pendiente
+PED-00517;2026-08-31;Soluciones Orbital;Sr;Mouse Inalámbrico;31;$25.07;0%;diego rivas;Pagado
+PED-00518;31-08-2026;Comercial Andes Sur;Sr;Monitor 27 4K;6;382.93;0;Marcos Quiroz ;Pagado
+PED-00519;01.09.2026;Alfa Retail;Oriente;Webcam HD 1080p;18;57,14;10;DIEGO RIVAS;Pagado
+PED-00520;01-09-26;Comercial Andes Sur;Sur ;Auriculares ANC;17.0;142.26;5;Marcos Quiroz;Pagado
+PED-00521;2026-09-01;Cobalto  Industrial;Centro;Teclado Mecánico;1;60,81;0,00;Valeria Soto;Pagado
+PED-00522;01/09/2026;Comercial Andes Sur ;Sur;Laptop Pro 14;5 unid.;1,230.25;15; Marcos Quiroz;PENDIENTE
+PED-00523;02/09/2026;Mercantil Horizonte;ORIENTE;Silla Ergonómica;1;USD 205;5;Camila Herrera;Pendiente
+PED-00524;02.09.2026;Constructora Roble;;mouse inalámbrico;11;$21.00;5%;Lucía Paredes;Pagado
+PED-00525;02/09/2026;Alfa Retail;Oriente;Monitor 27 4K;12;417.03;5;Diego Rivas;Pagada
+PED-00526;02/09/2026;Alfa Retail;Oriente;Docking USB-C;1;$101.34;5%;Diego Rivas;Pagado
+PED-00527;02/09/2026;Nova Distribuciones;Norte;Mouse Inalámbrico;9;27.99;;Lucía Paredes;pend.
+PED-00509;29/08/2026; Servicios Meridiano;Oriente;Docking USB-C;12;122,55;0 %;Diego Rivas;Pagado
+PED-00528;02/09/2026;Comercial Andes Sur;Sur;teclado mecánico;27;73,12;0;Marcos Quiroz;PENDIENTE
+PED-00529;2026-09-02;Servicios Meridiano;Oriemte;Laptop Pro 14;7 unid.;976.53;0;Diego Rivas;Pendiente
+PED-00530;2026-09-03; Alfa Retail;Oriente;Silla  Ergonómica;6;165.47;0.05;Diego Rivas;Anulado
+PED-00531;03/09/2026;Alfa Retail;Oriente;Mouse Inalámbrico;13;37.18;0,00;Diego Rivas;Pendiente
+ped-00532;03-09-2026;Inversiones Titán;Centro;Auriculares ANC;1;77.32;15%;Andrés Molina.;Anulado
+PED-00533;04/09/2026;;Centro;Mouse Inalámbrico;9;39,60;10%;;PENDIENTE
+PED-00534;04-09-2026;Tecnoandina;Sur ;Auriculares ANC;07;129.59;0;marcos quiroz;Anulado
+PED-00535;2026-09-04;Logística Delta;Sur;Auriculares ANC;15;118,68;10;Marcos Quiroz;PENDIENTE
+PED-00536;05/09/2026;Corporación Zenit;Centro;Teclado Mecánico;1100;77.66;0;Andrés Molina;Pagado
+PED-00537;05/09/2026;Soluciones Orbital;Sur;Webcam  HD  1080p;9;51.75;0;diego rivas;Pagada
+PED-00538;06/09/2026;Mercantil  Horizonte;Oriente;Auriculares ANC;10;$88.33;0%;Camila Herrera;Pagado
+PED-00539;07-09-26;Comercial Andes Sur;Sur;Monitor 27 4K;3;354.71;0;Marcos Quiroz;Pagado
+PED-00166;01-04-26;AGROEXPORT VALLE;oriente;monitor 27 4k;4;405.40;;Camila Herrera;Pendiente
+PED-00540;07/09/2026;Grupo Aurora;N0rte;DOCKING USB-C;13;99.51;0%;Lucía Paredes;Pagado
+PED-00131;20/03/2026;Importadora Brisa;Norte ;WEBCAM HD 1080P;23;38,72;0,00;Camila Herrera;Pagada
+PED-00541;07/09/2062;Comercial Andes Sur;SUR;Mouse Inalambrico;8;35.11;5%;Marcos Quiroz;Pagado
+PED-00221;26-04-26;Logística Delta;SUR;Teclado Mecánico;5;109.06;0;Marcos Quiroz;Pagado
+PED-00542;07/09/2026;Constructora Roble;Nrte;Webcam HD 1080p;7;51.22;5%;Lucía Paredes;Cancelado
+PED-00543;07/09/2026;Tecnoandina;Sur;Laptop Pro 14;2;1,008.38;10;MARCOS QUIROZ;Pagado
+PED-00199;2026-04-15;Alfa Retail;Orient;Laptop Pro 14;3.0;1.214,35;5;Diego Rivas;Pagada
+PED-00544;2026-09-07; Logística Delta;Sur;Monitor 27 4K;;395.46;0;Marcos Quiroz;Pagada
+PED-00545;07/09/2026; Corporación Zenit;Centro;Laptop Pro 14;2 unid.;1015.36;;Andrés Molina;Pagado
+PED-00546;07/09/2026;Soluciones Orbital;Sur;Teclado Mecanico;8;US$ 100.75;5%;Diego Rivas;pagado
+ PED-00547 ;08-09-26;Servicios Meridiano;Oriente;Webcam HD 1080p;10;US$ 37.84;0 %;Diego Rivas;Pagado
+PED-00548;09-09-26;;Sur;WEBCAM HD 1080P;6.0;;5%;Marcos Quiroz;PAGADO 
+PED-00549;09-09-2026;comercial andes sur;Sur;Docking USB-C;2;USD 102;0%;Marcos Quiroz;Pagado
+PED-00550;10/09/2026;Cobalto Industrial;Centro;Silla Ergonómica;10;188,04;0;Valeria Soto;PAGADO 
+PED-00551;10/09/2026;Alfa Retail;Oriente;docking usb-c;15;98,83;10 %;Diego Rivas;pagado
+PED-00552;10/09/2026;Inversiones Titán;Centro;Monitor 27 4K;14 unid.;349.67;10%;Andrés Molina;Anulado
+PED-00553;10/09/2026;Agroexport Valle;ORIENTE;Mouse Inalámbrico;13;38.02;5%;Camila Herrera;Pagado
+PED-00554;2026-09-10;Grupo  Aurora;Norte ;Silla  Ergonómica;10;243,01;5 %;Lucía Paredes;Cancelado
+ PED-00555 ;11/09/2026;Soluciones  Orbital;Sur;Auriculars ANC;tres;$70.47;0;Diego Rivas;Pagado
+PED-00556;2026-09-11;Importadora Brisa;N0rte;Docing USB-C;8;154.79;0.05;Camila Herrera;Pagado
+ PED-00557 ;11-09-26;Logística Delta;SUR;docking usb-c;5;151,13;15%;Marcos Quiroz;Anulado
+PED-00558;11/09/2026; Soluciones Orbital;Sur;Laptop Pro 14;2;1346.85;0;Diego Rivas;Pagado
+PED-00559;2026-09-11;Agroexport Valle.;Oriente;Silla Ergonómica;7;204.78;0;Camila Herrera;Pagado
+PED-00560;14.09.2026;textiles pampa;Centro;Docking USB-C;20.0;USD 147;15%;Valeria Soto;Pendiente
+ PED-00561 ;14.09.2026;Nova Distribuciones;Norte;Mouse Inalámbrico;21;24.62;0;Lucía Paredes;Pdte
+PED-00562;2026-09-15;Importadora Brisa;Norte;Mouse Inalámbrico;7;42.38;0,15;CAMILA HERRERA;Anulado
+PED-00563;16/09/2026;Cobalto Industrial;Centrp;laptop pro 14;8;1037.37;10%;Valeria Soto;Pagado
+PED-00564;2026-09-16;Importadora Brisa;Norte;Mous Inalámbrico;16;35.41;0%;Camila  Herrera;Pendiente
+PED-00565;2026-09-16;NOVA DISTRIBUCIONES;Norte;Teclado Mecánico;23;65.54;10%;Lucía  Paredes;Pagado
+PED-00552;10/09/2026;Inversiones Titán;Centro;Monitor 27 4K;14 unid.;349.67;10%;Andrés Molina;Anulado
+PED-00566;2026-09-16;Soluciones Orbital;Sr;Auriculares ANC;2;97.73;5 %;Diego Rivas;PAGADO 
+PED-00567;17/09/2026;Inversiones  Titán;Cntro;Mouse Inalámbrico;11;USD 32;5%;Andrés Molina ;Pendiente
+ PED-00568 ;17/09/2026;Mercantil Horizonte;;monitor 27 4k;11;349.59;0.05;Camila Herrera;Pagado
+PED-00569;17/09/2026;Agroexport Valle;Oriente;Teclado Mecánico;29;72.24;0%;Camila Herrera;Pendiente
+PED-00570;2026-09-17;Corporación Zenit;Centro;Teclado Mecánico;12;64,84;0;Andrés Molina;pagado
+PED-00571;18/09/2026;;Oriemte;Teclado Mecánico;26;80.59;0%;Camila Herrera;Pagado
+PED-00572;2026-09-18;Corporación Zenit;Centrp;Teclado Mecánico;5;74.75;0%;andrés molina;Pagado
+PED-00573;18-09-26;Tecnoandina ;Sr;Teclado Mecánico;3;67,69;0%;Marcos Quiroz;Pagado
+PED-00467;2026-08-13;Alfa Retail;Oriente ;Laptop Pro 14;6;1165.78;0.1;Diego Rivas;Anulado
+PED-00574;2026-09-18;Textiles Pampa;Centro;Mouse  Inalámbrico;39;25.35;10%;Valeria Soto;Pendiente
+PED-00575;19/09/2026;Mercantil Horizonte;Oriente;Monitor 27 4K;4;USD 407;5%;Camila Herrera;Pendiente
+PED-00576;2026-09-21;Logística Delta;;Webcam HD 1080p;15;40.76;0;Marcos Quiroz;Anulado
+PED-00577;21/09/2026;Grupo Aurora;Norte ;Laptop Pro 14;3;1345.36;0%;Lucía Paredes;Pagado
+PED-00047;27.01.2026;Inversiones Titán;Centrp;Silla Ergonómic;5;156.23;10%;Andrés Molina;Pagada
+PED-00578;21/09/2026;Servicios Meridiano;Oriente;Silla Ergonómica;1;US$ 157.50;0%;Diego Rivas;pagado
+PED-00579;21/09/2026;Grupo Aurora;Norte;Silla Ergonómica;1;219,14;0%;Lucía Paredes ;pagado
+ PED-00580 ;22/09/2026;Soluciones Orbital;Sur;Mouse Inalámbrico;12;33.69;5;Diego Rivas;PAGADO 
+PED-00581;2026-09-22;Alfa Retail;Oriemte;Webcam HD 1080p;24;60.38;5%;Diego Rivas;Pagado
+PED-00582;22-09-2026; Nova Distribuciones;;Docking USB-C;16;US$ 116.41;5%;lucía paredes;Pendiente
+ped-00583;22-09-26;grupo aurora;Norte;mouse inalámbrico;4;$44.83;0;Lucía Paredes;Pagada
+PED-00584;22.09.2026;Mercantil Horizonte;Orient;Docking USB-C;7.0;US$ 124.48;0;Camila Herrera;Pagada
+PED-00446;05/08/2026;COMERCIAL ANDES SUR;Sur;Mouse Inalámbrico;20;43,62;0;Marcos Quiroz.;Pagado
+PED-00585;22/09/2026;Corporación Zenit;Centro;laptop pro 14;1;1184,44;;Andrés Molina;Pendiente
+PED-00586;2026-09-23;Grupo Aurora;Norte;Docking USB-C;10;132.26;0,15;Lucía Paredes;Pagado
+PED-00587;23/09/2026;Logística Delta;Sur;Docking USB-C;9;155.36;10%;MARCOS QUIROZ;Pendiente
+PED-00384;2026-07-13;Alfa Retail ;Oriente;Mouse Inalambrico;20;37.98;0;Diego Rivas;Pendiente
+PED-00588;2026-09-23;Corporación Zenit;centro;laptop pro 14;4;1,094.53;0.05;Andrés Molina;PENDIENTE
+PED-00589;23.09.2026;;Oriente;Teclado Mecánico;17;101.57;0%;Diego Rivas;Pendiente
+;2026-09-24;Comercial Andes Sur;sur;Silla Ergonómica;1;252,97;0;Marcos Quiroz;Pagado
+PED-00591;24/09/2026;Constructora Roble;NORTE;Docking USB-C;17;110.69;5;Lucía Paredes;Pdte
+PED-00592;2026-09-24;Inversiones Titán.;???;Laptop Pro 14;7;1198.89;0,00;Andrés Molina;Anulado
+PED-00593;24/09/2026;Nova Distribuciones;Norte ;Mouse Inalámbrico;1;42,43;5 %; Lucía Paredes;Pendiente
+PED-00594;24-09-26;Servicios Meridiano;Oriente;Docking USB-C;5 unid.;USD 144;15;;Pagado
+PED-00595;2026-09-24;INVERSIONES TITÁN;Cntro;Ariculares ANC;3;179.83;0%;Andrés Molina;Pendiente
+PED-00596;2026-09-25;Corporación Zenit;Centro;Silla Ergonomica;7;256.59;0%;Andrés Molina;Pendiente
+PED-00597;2026-09-25;Agroexport Valle;Oriente;Auriculares ANC;2;178.02;5%;Camila Herrera;Pdte
+PED-00598;27/09/2026;Constructora Roble;N0rte;Laptop Pro 14;4;1289.82;0;Lucía Paredes;Pagada
+PED00599;2026-09-28;Textiles Pampa;Centro;Laptop Pro 14;3 unid.;1,295.65;;valeria soto;PAGADO 
+PED-00600;28/09/2026;Tecnoandina;Sur;Docking USB-C;7;US$ 108.28;5 %;Marcos Quiroz;Pagado
+PED-00518;31-08-2026;Comercial Andes Sur;Sr;Monitor 27 4K;6;382.93;0;Marcos Quiroz ;Pagado
+PED-00601;28-09-2026;SERVICIOS MERIDIANO;Oriente;Auriculares ANC;4;119,89;10%;Diego Rivas;Pagado
+PED-00084;16-02-26;Nova Distribuciones;Norte;Teclado Mecánico;15 unid.;89,61;0,05;Lucía Paredes;Pagado
+PED-00602;28-09-26;Textiles Pampa.;Centro;Silla Ergonómica;2;266.75;0,05;Valeria Soto;Pagado
+PED-00540;07/09/2026;Grupo Aurora;N0rte;DOCKING USB-C;13;99.51;0%;Lucía Paredes;Pagado
+PED-00603;29-09-2026;Grupo Aurora;Norte;Webcam HD 1080p;2;68,30;0.1;Lucía Paredes;Pdte
+PED-00359;02/07/2026;Nova Distribuciones;Norte;Webcam HD 1080p;12;35,57;0;Lucía Paredes;Pagado
+PED-00604;2026-09-29;Constructora Roble;;Docking USB-C;12;154,66;0,00;Lucía Paredes;Pendiente
+PED-00605;30-09-26;Servicios Meridiano;Oriente;Silla Ergonómica;3;292.30;0 %;Diego Rivas;Pagado
+
+PED-00606;2026-09-30;Grupo Aurora;Norte;Laptop Pro 14;2;1,017.17;5%;Lucía Paredes ;Pagado
+ped-00607;30-09-26; Cobalto Industrial;Cntro;Webcam HD 1080p;13;40.75;0;Valeria Soto ;Pendiente
+PED-00608;30.09.2026;Inversiones Titán;CENTRO;Webcam HD 1080p;12;$35.90;0,10;Andrés Molina;Pagado
+PED-00609;30.09.2026;Grupo Aurora;Norte;Teclado Mecánico;17;101.65;0;Lucía Paredes;Pagado
+PED-00602;28-09-26;Textiles Pampa.;Centro;Silla Ergonómica;2;266.75;0,05;Valeria Soto;Pagado
+PED-00610;30.09.2026;TEXTILES PAMPA;CENTRO;Laptop Pro 14;1;1,333.92;0;Valeria Soto;Anulado
+ped-00611;30/09/2026;Comercial Andes Sur ;Sur;Auriculares ANC;6;167.92;0;Marcos Quiroz;Pagado
+PED-00612;30-09-2026;COMERCIAL ANDES SUR;Sur;Webcam HD 1080p;23;64,46;;Marcos Quiroz;PAGADO 
+PED-00530;2026-09-03; Alfa Retail;Oriente;Silla  Ergonómica;6;165.47;0.05;Diego Rivas;Anulado
+TOTAL;;;;;;;;;

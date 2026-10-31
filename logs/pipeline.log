@@ -1,0 +1,78 @@
+2026-10-16 16:58:10,812 | INFO    | Pipeline de ventas | entrada: ventas_sucias.csv
+2026-10-16 16:58:10,812 | INFO    | [1/3] INGESTA
+2026-10-16 16:58:10,841 | INFO    |   codificación / separador ....................... utf-8 / ';'
+2026-10-16 16:58:10,842 | INFO    |   registros leídos ............................... 645
+2026-10-16 16:58:10,842 | INFO    |   líneas vacías ignoradas ........................ 3
+2026-10-16 16:58:10,842 | INFO    |   líneas con estructura inválida ................. 2
+2026-10-16 16:58:10,842 | INFO    | [2/3] TRANSFORMACIÓN
+2026-10-16 16:58:10,962 | INFO    |   Fechas en formato no ISO convertidas ........... 352
+2026-10-16 16:58:10,962 | INFO    |   Importes con símbolo o separador atípico ....... 247
+2026-10-16 16:58:10,963 | INFO    |   Estados estandarizados ......................... 148
+2026-10-16 16:58:10,963 | INFO    |   Regiones corregidas ............................ 124
+2026-10-16 16:58:10,963 | INFO    |   Productos corregidos ........................... 96
+2026-10-16 16:58:10,963 | INFO    |   otros (5 tipos) ................................ 214
+2026-10-16 16:58:10,963 | INFO    |   registros válidos .............................. 513 (79.5%)
+2026-10-16 16:58:10,963 | INFO    |   registros excluidos ............................ 132 (20.5%)
+2026-10-16 16:58:10,964 | INFO    |     Pedido anulado (regla de negocio) ............ 43
+2026-10-16 16:58:10,964 | INFO    |     ID duplicado ................................. 29
+2026-10-16 16:58:10,964 | INFO    |     Cantidad inválida ............................ 15
+2026-10-16 16:58:10,964 | INFO    |     Fecha inválida ............................... 10
+2026-10-16 16:58:10,964 | INFO    |     Precio inválido .............................. 9
+2026-10-16 16:58:10,964 | INFO    |     Producto no reconocido ....................... 7
+2026-10-16 16:58:10,964 | INFO    |     otros (6 tipos) .............................. 19
+2026-10-16 16:58:10,964 | INFO    | [3/3] EXPORTACIÓN
+2026-10-16 16:58:11,183 | INFO    |   reporte Excel .................................. output\reporte_ejecutivo_20261016_165810.xlsx
+2026-10-16 16:58:11,184 | INFO    |   CSV limpio ..................................... output\ventas_limpias_20261016_165810.csv
+2026-10-16 16:58:11,184 | INFO    | LISTO en 0.4 s | 645 leídos, 513 válidos (79.5%) | ingreso neto $824,459.95
+2026-10-31 12:35:47,521 | INFO    | Pipeline de ventas | entrada: ventas_sucias.csv
+2026-10-31 12:35:47,521 | INFO    | [1/3] INGESTA
+2026-10-31 12:35:47,541 | INFO    |   codificación / separador ....................... utf-8 / ';'
+2026-10-31 12:35:47,542 | INFO    |   registros leídos ............................... 645
+2026-10-31 12:35:47,542 | INFO    |   líneas vacías ignoradas ........................ 3
+2026-10-31 12:35:47,542 | INFO    |   líneas con estructura inválida ................. 2
+2026-10-31 12:35:47,542 | INFO    | [2/3] TRANSFORMACIÓN
+2026-10-31 12:35:47,649 | INFO    |   Fechas en formato no ISO convertidas ........... 352
+2026-10-31 12:35:47,649 | INFO    |   Importes con símbolo o separador atípico ....... 247
+2026-10-31 12:35:47,649 | INFO    |   Estados estandarizados ......................... 148
+2026-10-31 12:35:47,649 | INFO    |   Regiones corregidas ............................ 124
+2026-10-31 12:35:47,650 | INFO    |   Productos corregidos ........................... 96
+2026-10-31 12:35:47,650 | INFO    |   otros (5 tipos) ................................ 214
+2026-10-31 12:35:47,650 | INFO    |   registros válidos .............................. 513 (79.5%)
+2026-10-31 12:35:47,650 | INFO    |   registros excluidos ............................ 132 (20.5%)
+2026-10-31 12:35:47,650 | INFO    |     Pedido anulado (regla de negocio) ............ 43
+2026-10-31 12:35:47,650 | INFO    |     ID duplicado ................................. 29
+2026-10-31 12:35:47,650 | INFO    |     Cantidad inválida ............................ 15
+2026-10-31 12:35:47,650 | INFO    |     Fecha inválida ............................... 10
+2026-10-31 12:35:47,651 | INFO    |     Precio inválido .............................. 9
+2026-10-31 12:35:47,651 | INFO    |     Producto no reconocido ....................... 7
+2026-10-31 12:35:47,651 | INFO    |     otros (6 tipos) .............................. 19
+2026-10-31 12:35:47,651 | INFO    | [3/3] EXPORTACIÓN
+2026-10-31 12:35:47,884 | INFO    |   reporte Excel .................................. output\reporte_ejecutivo_20261031_123547.xlsx
+2026-10-31 12:35:47,885 | INFO    |   CSV limpio ..................................... output\ventas_limpias_20261031_123547.csv
+2026-10-31 12:35:47,885 | INFO    | LISTO en 0.4 s | 645 leídos, 513 válidos (79.5%) | ingreso neto $824,459.95
+2026-10-31 12:40:52,128 | INFO    | Pipeline de ventas | entrada: ventas_sucias.csv
+2026-10-31 12:40:52,129 | INFO    | [1/3] INGESTA
+2026-10-31 12:40:52,151 | INFO    |   codificación / separador ....................... utf-8 / ';'
+2026-10-31 12:40:52,152 | INFO    |   registros leídos ............................... 645
+2026-10-31 12:40:52,152 | INFO    |   líneas vacías ignoradas ........................ 3
+2026-10-31 12:40:52,153 | INFO    |   líneas con estructura inválida ................. 2
+2026-10-31 12:40:52,153 | INFO    | [2/3] TRANSFORMACIÓN
+2026-10-31 12:40:52,266 | INFO    |   Fechas en formato no ISO convertidas ........... 352
+2026-10-31 12:40:52,266 | INFO    |   Importes con símbolo o separador atípico ....... 247
+2026-10-31 12:40:52,266 | INFO    |   Estados estandarizados ......................... 148
+2026-10-31 12:40:52,266 | INFO    |   Regiones corregidas ............................ 124
+2026-10-31 12:40:52,266 | INFO    |   Productos corregidos ........................... 96
+2026-10-31 12:40:52,267 | INFO    |   otros (5 tipos) ................................ 214
+2026-10-31 12:40:52,267 | INFO    |   registros válidos .............................. 513 (79.5%)
+2026-10-31 12:40:52,267 | INFO    |   registros excluidos ............................ 132 (20.5%)
+2026-10-31 12:40:52,267 | INFO    |     Pedido anulado (regla de negocio) ............ 43
+2026-10-31 12:40:52,267 | INFO    |     ID duplicado ................................. 29
+2026-10-31 12:40:52,267 | INFO    |     Cantidad inválida ............................ 15
+2026-10-31 12:40:52,267 | INFO    |     Fecha inválida ............................... 10
+2026-10-31 12:40:52,268 | INFO    |     Precio inválido .............................. 9
+2026-10-31 12:40:52,268 | INFO    |     Producto no reconocido ....................... 7
+2026-10-31 12:40:52,268 | INFO    |     otros (6 tipos) .............................. 19
+2026-10-31 12:40:52,268 | INFO    | [3/3] EXPORTACIÓN
+2026-10-31 12:40:52,458 | INFO    |   reporte Excel .................................. output\reporte_ejecutivo_20261031_124052.xlsx
+2026-10-31 12:40:52,458 | INFO    |   CSV limpio ..................................... output\ventas_limpias_20261031_124052.csv
+2026-10-31 12:40:52,459 | INFO    | LISTO en 0.3 s | 645 leídos, 513 válidos (79.5%) | ingreso neto $824,459.95
